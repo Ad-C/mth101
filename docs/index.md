@@ -48,3 +48,12 @@ suivant le guide GitHub distribué en séance.
   Brief*, 22 (2019), 41–49,
   [doi:10.1016/j.dib.2018.11.126](https://doi.org/10.1016/j.dib.2018.11.126),
   licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
+
+## Licences
+
+Supports de cours : © 2026 Adrien Chiodo,
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr).
+Relevés de temps d'attente : conditions de Queue-Times, mention
+« Powered by Queue-Times.com » obligatoire. Tableaux tirés de Hotel booking
+demand : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr),
+avec attribution.

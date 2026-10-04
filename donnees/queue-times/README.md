@@ -57,3 +57,6 @@ L'API de Queue-Times est gratuite, à condition d'afficher bien en vue la
 mention « Powered by Queue-Times.com » avec un lien vers
 <https://queue-times.com/>. **Tout rendu qui utilise ou affiche ces données
 (notebook, graphique, simulateur, poster, diapositive) porte cette mention.**
+
+Ces relevés restent soumis aux conditions de Queue-Times : la licence des
+supports de cours (CC BY-NC-ND 4.0) ne les couvre pas.

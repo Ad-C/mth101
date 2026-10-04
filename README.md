@@ -60,7 +60,20 @@ en séance.
   Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
 - **Temps d'attente** : [Powered by Queue-Times.com](https://queue-times.com/).
 
-## Licence
+## Licences
 
-Licence des contenus en cours de choix. D'ici là, tous droits réservés.
-Les données des tiers restent soumises à leurs propres conditions (ci-dessus).
+Une licence par composant :
+
+- **Supports de cours** (pages de `docs/` et PDF de `docs/supports/`) :
+  © 2026 Adrien Chiodo,
+  [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr).
+  Vous pouvez les partager en citant l'auteur, sans usage commercial ni
+  version modifiée.
+- **Relevés de temps d'attente** (`donnees/queue-times/`) : données de
+  Queue-Times, soumises à ses conditions ; la mention
+  « [Powered by Queue-Times.com](https://queue-times.com/) », avec un lien,
+  est obligatoire dans tout rendu qui les utilise.
+- **Tableaux tirés de Hotel booking demand** (dans les supports) : chiffres
+  calculés à partir du jeu de N. Antonio, A. de Almeida et L. Nunes (2019),
+  sous [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr) ;
+  toute réutilisation cite cette source.
