@@ -1,6 +1,7 @@
 """Relevé des temps d'attente des deux parcs Disneyland Paris via l'API Queue-Times.
 
-Lancé toutes les 15 minutes par .github/workflows/queue-times.yml. Chaque
+Lancé toutes les 15 minutes par .github/workflows/queue-times.yml, que
+cron-job.org déclenche (minutes 4, 19, 34 et 49, de 8 h à 23 h). Chaque
 passage ajoute une ligne par attraction au fichier du jour,
 donnees/queue-times/AAAA-MM-JJ.csv (date de Paris).
 
@@ -24,7 +25,7 @@ from zoneinfo import ZoneInfo
 PARCS = {4: "Disneyland Park", 28: "Disney Adventure World"}
 URL = "https://queue-times.com/parks/{}/queue_times.json"
 PARIS = ZoneInfo("Europe/Paris")
-DEBUT, FIN = heure(8, 30), heure(23, 45)          # plage relevée, heure de Paris
+DEBUT, FIN = heure(8, 0), heure(23, 59)           # plage relevée, heure de Paris
 DOSSIER = Path(__file__).resolve().parents[1] / "donnees" / "queue-times"
 COLONNES = ["releve_utc", "date_paris", "heure_paris", "parc_id", "parc", "zone",
             "attraction_id", "attraction", "ouverte", "attente_min", "maj_queue_times_utc"]

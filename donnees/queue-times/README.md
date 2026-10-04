@@ -9,15 +9,19 @@ les parcs ne sont associés ni au cours ni à son projet.
 
 ## Comment les relevés sont faits
 
-- Toutes les 15 minutes, de 8 h 30 à 23 h 45 (heure de Paris), du
-  4 octobre au 12 novembre 2026 : une requête par parc, pas davantage.
-- Un programme planifié sur GitHub (`scripts/releve_queue_times.py`, lancé
-  par `.github/workflows/queue-times.yml`) ajoute les relevés au fichier du
-  jour et les commite.
-- Les passages peuvent être retardés, parfois de beaucoup, ou sautés :
-  l'écart entre deux relevés n'est pas toujours de 15 minutes. C'est une
-  propriété des données à prendre en compte ; la colonne `releve_utc` donne
-  l'instant réel de chaque relevé.
+- Toutes les 15 minutes, aux minutes 4, 19, 34 et 49, de 8 h à minuit
+  (heure de Paris), jusqu'au 12 novembre 2026 : une requête par parc, pas
+  davantage.
+- Un service de planification externe, cron-job.org, lance chaque relevé
+  sur GitHub : `scripts/releve_queue_times.py`, exécuté par
+  `.github/workflows/queue-times.yml`, ajoute les relevés au fichier du jour
+  et les commite.
+- **Avant le 5 octobre**, les relevés dépendaient de la planification de
+  GitHub, qui accusait des heures de retard : le fichier du 4 octobre n'en
+  compte que deux, à 18 h 18 et à 21 h 42. La régularité commence le
+  5 octobre.
+- Un relevé peut encore manquer ou arriver avec une minute de retard : la
+  colonne `releve_utc` donne l'instant réel de chaque relevé.
 - Queue-Times rafraîchit ses données environ toutes les 5 minutes ; la
   colonne `maj_queue_times_utc` dit de quand date chaque valeur.
 

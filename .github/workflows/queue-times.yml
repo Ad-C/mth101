@@ -1,13 +1,12 @@
-# Relevé des temps d'attente toutes les 15 minutes, commité dans donnees/queue-times/.
-# Les heures sont en UTC et couvrent l'heure d'été comme l'heure d'hiver ; le
-# script ne fait aucune requête hors de la plage 8 h 30 - 23 h 45, heure de Paris,
-# ni après FIN_COLLECTE. Les passages planifiés par GitHub peuvent être
-# retardés ou sautés : le README des données le documente.
+# Relevé des temps d'attente, commité dans donnees/queue-times/.
+# Lancé par son déclenchement manuel, que cron-job.org appelle toutes les
+# 15 minutes (minutes 4, 19, 34 et 49, de 8 h à 23 h, heure de Paris) : la
+# planification de GitHub accuse des heures de retard sur ce compte. Le
+# script ne fait aucune requête hors de 8 h – minuit, heure de Paris, ni
+# après FIN_COLLECTE.
 name: Relevé Queue-Times
 
 on:
-  schedule:
-    - cron: "4,19,34,49 6-22 * * *"
   workflow_dispatch:
 
 permissions:
