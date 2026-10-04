@@ -5,12 +5,12 @@
 Relevés réels des temps d'attente affichés dans les deux parcs Disneyland
 Paris (Disneyland Park et Disney Adventure World), obtenus par l'API publique
 de Queue-Times. Ce sont les données d'un parc réel, citées comme telles ;
-le site n'est associé ni au cours ni à son projet.
+les parcs ne sont associés ni au cours ni à son projet.
 
 ## Comment les relevés sont faits
 
 - Toutes les 15 minutes, de 8 h 30 à 23 h 45 (heure de Paris), du
-  6 octobre au 12 novembre 2026 : une requête par parc, pas davantage.
+  4 octobre au 12 novembre 2026 : une requête par parc, pas davantage.
 - Un programme planifié sur GitHub (`scripts/releve_queue_times.py`, lancé
   par `.github/workflows/queue-times.yml`) ajoute les relevés au fichier du
   jour et les commite.
