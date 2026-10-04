@@ -14,9 +14,10 @@ les parcs ne sont associés ni au cours ni à son projet.
 - Un programme planifié sur GitHub (`scripts/releve_queue_times.py`, lancé
   par `.github/workflows/queue-times.yml`) ajoute les relevés au fichier du
   jour et les commite.
-- Les passages planifiés par GitHub peuvent être retardés de quelques
-  minutes, parfois sautés : l'écart entre deux relevés n'est pas toujours de
-  15 minutes. C'est une propriété des données à prendre en compte.
+- Les passages peuvent être retardés, parfois de beaucoup, ou sautés :
+  l'écart entre deux relevés n'est pas toujours de 15 minutes. C'est une
+  propriété des données à prendre en compte ; la colonne `releve_utc` donne
+  l'instant réel de chaque relevé.
 - Queue-Times rafraîchit ses données environ toutes les 5 minutes ; la
   colonne `maj_queue_times_utc` dit de quand date chaque valeur.
 
