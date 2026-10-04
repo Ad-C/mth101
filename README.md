@@ -77,3 +77,5 @@ Une licence par composant :
   calculés à partir du jeu de N. Antonio, A. de Almeida et L. Nunes (2019),
   sous [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr) ;
   toute réutilisation cite cette source.
+- **Programme de relevé** (`scripts/` et `.github/`) : versé dans le domaine
+  public, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
