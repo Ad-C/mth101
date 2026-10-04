@@ -45,6 +45,6 @@ suivant le guide GitHub distribué en séance.
   [dossier `donnees/queue-times`](https://github.com/Ad-C/mth101/tree/main/donnees/queue-times).
   [Powered by Queue-Times.com](https://queue-times.com/).
 - Hotel booking demand : N. Antonio, A. de Almeida, L. Nunes, *Data in
-  Brief*, 22 (2019), 41-49,
+  Brief*, 22 (2019), 41–49,
   [doi:10.1016/j.dib.2018.11.126](https://doi.org/10.1016/j.dib.2018.11.126),
   licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).

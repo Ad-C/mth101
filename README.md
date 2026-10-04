@@ -55,7 +55,7 @@ en séance.
 ## Données utilisées dans le cours
 
 - **Hotel booking demand** : N. Antonio, A. de Almeida, L. Nunes, « Hotel
-  booking demand datasets », *Data in Brief*, 22 (2019), 41-49,
+  booking demand datasets », *Data in Brief*, 22 (2019), 41–49,
   [doi:10.1016/j.dib.2018.11.126](https://doi.org/10.1016/j.dib.2018.11.126).
   Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
 - **Temps d'attente** : [Powered by Queue-Times.com](https://queue-times.com/).
