@@ -1,7 +1,8 @@
 # Relevé des temps d'attente toutes les 15 minutes, commité dans donnees/queue-times/.
 # Les heures sont en UTC et couvrent l'heure d'été comme l'heure d'hiver ; le
 # script ne fait aucune requête hors de la plage 8 h 30 - 23 h 45, heure de Paris,
-# ni après FIN_COLLECTE.
+# ni après FIN_COLLECTE. Les passages planifiés par GitHub peuvent être
+# retardés ou sautés : le README des données le documente.
 name: Relevé Queue-Times
 
 on:
