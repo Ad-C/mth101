@@ -34,7 +34,7 @@ Six objectifs :
 | Ven. 23/10, après-midi | 6 | Estimation, intervalle de confiance, test de deux proportions |
 | Ven. 6/11, après-midi | 7, en autonomie | Projet : second jalon |
 | Jeu. 12/11, journée | 8 et 9 | Journée des soutenances |
-| Jeu. 28/01, après-midi | 10 | Examen individuel, commun avec MTH102 |
+| Jeu. 28/01, après-midi | 10 | Examen |
 
 Chaque séance en présence consacre une partie de son temps au projet.
 
