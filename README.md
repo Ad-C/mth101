@@ -42,6 +42,8 @@ Chaque séance en présence consacre une partie de son temps au projet.
 
 - `docs/` : la page du cours, publiée sur GitHub Pages : supports en PDF et
   résumé de chaque séance passée.
+- `notebooks/` : les notebooks des séances, à copier dans le dépôt de votre
+  binôme (voir le `README` du dossier).
 - `donnees/queue-times/` : des relevés de temps d'attente, constitués pour le
   projet (voir le `README` du dossier).
   [Powered by Queue-Times.com](https://queue-times.com/).
@@ -79,3 +81,6 @@ Une licence par composant :
   toute réutilisation cite cette source.
 - **Programme de relevé** (`scripts/` et `.github/`) : versé dans le domaine
   public, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
+- **Notebooks** (`notebooks/`) : versés dans le domaine public,
+  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr), pour
+  que vous puissiez les copier et les modifier dans vos dépôts.
