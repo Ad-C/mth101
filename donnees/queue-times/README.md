@@ -20,10 +20,26 @@ les parcs ne sont associés ni au cours ni à son projet.
   GitHub, qui accusait des heures de retard : le fichier du 4 octobre n'en
   compte que deux, à 18 h 18 et à 21 h 42. La régularité commence le
   5 octobre.
-- Un relevé peut encore manquer ou arriver avec une minute de retard : la
-  colonne `releve_utc` donne l'instant réel de chaque relevé.
+- Un relevé peut encore manquer, ou partir avec quelques minutes de retard
+  quand GitHub tarde à lui attribuer une machine. La colonne `releve_utc`
+  donne toujours l'instant réel du relevé, jamais l'heure prévue.
+- Si un seul des deux parcs répond, le relevé ne contient que les
+  attractions de ce parc.
 - Queue-Times rafraîchit ses données environ toutes les 5 minutes ; la
   colonne `maj_queue_times_utc` dit de quand date chaque valeur.
+
+## Trous et retards connus
+
+La série n'est pas parfaitement régulière, comme la plupart des données
+réelles. Les écarts connus au 6 octobre 2026 :
+
+| Jour | Relevés | Ce qui s'est passé |
+|---|---|---|
+| 4 octobre | 2 | Avant le déclencheur externe : relevés à 18 h 18 et à 21 h 42 seulement. |
+| 5 octobre | 62 sur 64 | Incident de GitHub Actions, déclaré par GitHub à 21 h 11 (heure de Paris) : retards dans l'attribution des machines. Les relevés prévus à 22 h 04 et à 22 h 34 manquent : aucune machine ne les a pris en charge. Ceux de 21 h 34, 21 h 49, 22 h 19, 23 h 04 et 23 h 19 sont partis avec 5 à 10 minutes de retard, à 21 h 44, 21 h 59, 22 h 24, 23 h 14 et 23 h 24. |
+
+Les fichiers font foi : un écart de plus de 15 minutes entre deux valeurs
+successives de `releve_utc`, dans un même fichier, signale un trou.
 
 ## Les fichiers
 
