@@ -2,7 +2,7 @@
 title: Accueil
 ---
 
-**Accueil** · [Séances](seances.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
+**Accueil** · [Séances](seances.html) · [FAQ GitHub](faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
 Cours MTH101 du Bachelor IA, 1re année, de l'École 89, année 2026-2027.
 Intervenant : Adrien Chiodo.
@@ -38,6 +38,8 @@ Le résumé de chaque séance passée, avec ses supports en PDF, est sur la page
 Il se crée depuis le modèle
 [github.com/Ad-C/mth101-modele](https://github.com/Ad-C/mth101-modele), en
 suivant le guide GitHub distribué en séance.
+
+Une question sur GitHub ou Codespaces : la [FAQ GitHub](faq.html).
 
 ## Données
 

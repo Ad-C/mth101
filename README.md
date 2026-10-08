@@ -40,8 +40,8 @@ Chaque séance en présence consacre une partie de son temps au projet.
 
 ## Ce que contient ce dépôt
 
-- `docs/` : la page du cours, publiée sur GitHub Pages : supports en PDF et
-  résumé de chaque séance passée.
+- `docs/` : la page du cours, publiée sur GitHub Pages : supports en PDF,
+  résumé de chaque séance passée et FAQ GitHub (`docs/faq.md`).
 - `notebooks/` : les notebooks des séances, à copier dans le dépôt de votre
   binôme (voir le `README` du dossier).
 - `donnees/queue-times/` : des relevés de temps d'attente, constitués pour le
