@@ -8,13 +8,17 @@ Les questions posées sur GitHub et Codespaces, avec leur réponse. Les libellé
 
 *Mise à jour : 9 octobre 2026.*
 
+**Une fois dans chaque nouveau codespace** : dans un terminal (menu ☰, **Terminal**, **Nouveau terminal**), tapez `git config --global pull.rebase false`. Sans ce réglage, la synchronisation échoue dès que vous et votre binôme avez commité chacun de votre côté (question 3).
+
 ## 1. Je vois le commit de mon binôme sur github.com, mais je ne peux pas modifier le fichier
 
-La page d'un commit montre le dépôt figé à ce moment-là : on y lit, on n'y écrit pas, et le crayon y est grisé.
+La page d'un commit montre le dépôt figé à ce moment-là : elle sert à lire les changements, et le crayon y est grisé.
 
 Pour modifier le fichier, passez par votre codespace, et faites-y d'abord entrer le commit de votre binôme. En bas à gauche, juste à droite de `main`, cliquez sur l'icône aux deux flèches en cercle (infobulle « Synchroniser les changements »). Le fichier se met à jour ; complétez-le.
 
 Votre codespace ne se met jamais à jour tout seul : synchronisez en arrivant.
+
+Après votre premier push, VS Code propose d'exécuter périodiquement « git fetch » : répondez **Oui**. Il vous signalera les commits de votre binôme (`1↓` à côté des deux flèches, en bas à gauche) ; il restera à synchroniser. Question fermée par erreur : roue dentée **Gérer**, **Paramètres**, cherchez `autofetch` et mettez la valeur sur `true`.
 
 ## 2. Enregistrer, Valider, Synchroniser : quelle différence ?
 
@@ -29,7 +33,7 @@ En arrivant, synchronisez. En partant, validez, synchronisez, puis arrêtez le c
 ## 3. La synchronisation affiche une erreur
 
 - **« Nettoyez l'arborescence de travail de votre dépôt avant l'extraction »** : vous avez des modifications non validées. Cliquez d'abord sur **Valider**, puis synchronisez.
-- **Un message qui commence par « Git : »**, dont le détail (**Afficher la sortie de commande**) parle de *divergent branches* : vous et votre binôme avez commité chacun de votre côté. Ouvrez un terminal (menu ☰, **Terminal**, **Nouveau terminal**). Tapez une fois `git config --global pull.rebase false`, puis synchronisez de nouveau.
+- **Un message qui commence par « Git : »**, dont le détail (**Afficher la sortie de commande**) parle de *divergent branches* : vous et votre binôme avez commité chacun de votre côté. Dans un terminal (menu ☰, **Terminal**, **Nouveau terminal**), tapez `git config --global pull.rebase false`, une fois par codespace, puis synchronisez de nouveau.
 - **« Il existe des conflits de fusion »** : vous avez modifié les mêmes lignes. Ouvrez le fichier listé sous **Fusionner les changements**. Au-dessus de chaque bloc en conflit, choisissez **Accepter la modification actuelle** (la vôtre), **Accepter la modification entrante** (celle de votre binôme) ou **Accepter les deux modifications**. Relisez et enregistrez. Cliquez ensuite sur **Continuer** (pendant une fusion, c'est le nom du bouton **Valider**), puis synchronisez. Si le conflit porte sur un notebook (`.ipynb`), ne validez rien et prévenez l'intervenant.
 
 Pour l'éviter, synchronisez en arrivant, et ne modifiez pas un même fichier à deux en même temps, surtout un notebook.
@@ -53,7 +57,7 @@ Trois signes d'alerte :
 - l'icône en bas à gauche est un nuage ;
 - vos commits n'arrivent pas dans le dépôt de l'équipe.
 
-Dans un codespace ouvert sur un dépôt où vous ne pouvez pas écrire, un commit crée une copie publique (un *fork*) sous votre compte, sans rien vous demander.
+Dans un codespace ouvert sur un dépôt où vous ne pouvez pas écrire, un commit fait depuis le panneau **Contrôle de code source** crée une copie publique (un *fork*) sous votre compte, sans rien vous demander.
 
 Dans tous les cas : n'effacez rien et prévenez l'intervenant. Ouvrez ensuite le bon codespace depuis la page du dépôt de l'équipe : **Code**, onglet **Codespaces**.
 
@@ -67,7 +71,7 @@ S'il manque encore une bibliothèque, tapez dans un terminal, à la racine du d�
 pip3 install --user -r requirements.txt
 ```
 
-C'est la commande que le codespace lance à sa création. Relancez ensuite **Exécuter tout**.
+Elle installe les mêmes bibliothèques que le codespace à sa création. Relancez ensuite **Exécuter tout**.
 
 ## 7. Mon codespace s'est arrêté. Combien de temps puis-je l'utiliser ?
 
