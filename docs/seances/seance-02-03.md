@@ -18,8 +18,10 @@ Les lois discrètes, prévues l'après-midi, n'ont pas pu être traitées : elle
 - [Diapositives du matin (PDF)](../supports/seance-02-03/mth101-seance-02-diapos.pdf)
 - [Diapositives de l'après-midi (PDF)](../supports/seance-02-03/mth101-seance-03-diapos.pdf)
 - [Exercices (PDF)](../supports/seance-02-03/mth101-seances-02-03-exercices.pdf) : 1 à 7 sur le théorème de Bayes, 8 à 15 avec le parcours du 15 octobre
+- [Corrigés des exercices 1 à 7 (PDF)](../supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf)
 - [Notebook de la séance 3](https://github.com/Ad-C/mth101/tree/main/notebooks), à copier dans votre dépôt
 
 ## Pour la prochaine fois
 
 - Jeudi 15 octobre, en autonomie : le [parcours sur les lois discrètes](../supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf), 60 minutes, puis le jalon 1 de votre mission, avant 23 h 59. La [feuille de route](../supports/projet/mth101-feuille-de-route-jalon-1.pdf) en donne le déroulé.
+- D'ici le vendredi 23 octobre, en autonomie : la fin du théorème de Bayes, avec les diapositives du matin, les exercices 1 à 7 et leurs [corrigés](../supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf), puis le chapitre 2 du polycopié dès sa parution. Un rappel de 20 minutes ouvrira la séance du 23 octobre.
