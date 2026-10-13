@@ -2,7 +2,7 @@
 title: FAQ GitHub
 ---
 
-[Accueil](./) · [Séances](seances.html) · **FAQ GitHub** · [Dépôt GitHub](https://github.com/Ad-C/mth101)
+[Accueil](./) · [Séances](seances.html) · [Projet](projet.html) · [Kit tuteur](kit-tuteur.html) · **FAQ GitHub** · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
 Les questions posées sur GitHub et Codespaces, avec leur réponse. Les libellés sont ceux de VS Code en français ; ceux de github.com restent en anglais. Le guide GitHub distribué en séance reste la référence pour les premiers pas.
 

@@ -41,13 +41,16 @@ Chaque séance en présence consacre une partie de son temps au projet.
 ## Ce que contient ce dépôt
 
 - `docs/` : la page du cours, publiée sur GitHub Pages : supports en PDF,
-  résumé de chaque séance passée et FAQ GitHub (`docs/faq.md`).
+  résumé de chaque séance passée, page du projet (`docs/projet.md`), kit
+  tuteur (`docs/kit-tuteur.md`) et FAQ GitHub (`docs/faq.md`).
 - `notebooks/` : les notebooks des séances, à copier dans le dépôt de votre
   binôme (voir le `README` du dossier).
 - `donnees/queue-times/` : des relevés de temps d'attente, constitués pour le
   projet (voir le `README` du dossier).
   [Powered by Queue-Times.com](https://queue-times.com/).
-- `scripts/` et `.github/workflows/` : le programme qui fait ces relevés.
+- `scripts/` et `.github/workflows/` : le programme qui fait ces relevés ;
+  dans `scripts/`, aussi le script du tirage au sort des missions du
+  9 octobre (`tirage-missions.py`), avec sa commande et sa graine.
 
 Ce dépôt se consulte ; vous n'y écrivez pas. Votre travail vit dans le dépôt
 privé de votre binôme, créé depuis le modèle
@@ -79,8 +82,9 @@ Une licence par composant :
   calculés à partir du jeu de N. Antonio, A. de Almeida et L. Nunes (2019),
   sous [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr) ;
   toute réutilisation cite cette source.
-- **Programme de relevé** (`scripts/` et `.github/`) : versé dans le domaine
-  public, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
+- **Programmes** (`scripts/` et `.github/`) : le programme de relevé et le
+  script du tirage, versés dans le domaine public,
+  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
 - **Notebooks** (`notebooks/`) : versés dans le domaine public,
   [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr), pour
   que vous puissiez les copier et les modifier dans vos dépôts.

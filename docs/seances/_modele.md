@@ -6,7 +6,7 @@
 title: "Séance N · jour JJ mois"
 ---
 
-[Accueil](../) · [Séances](../seances.html) · [FAQ GitHub](../faq.html)
+[Accueil](../) · [Séances](../seances.html) · [Projet](../projet.html) · [Kit tuteur](../kit-tuteur.html) · [FAQ GitHub](../faq.html)
 
 **Séance N, jour JJ mois, matin ou après-midi.** Thème en une ligne.
 

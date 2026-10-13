@@ -2,7 +2,7 @@
 title: Accueil
 ---
 
-**Accueil** · [Séances](seances.html) · [FAQ GitHub](faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
+**Accueil** · [Séances](seances.html) · [Projet](projet.html) · [Kit tuteur](kit-tuteur.html) · [FAQ GitHub](faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
 Cours MTH101 du Bachelor IA, 1re année, de l'École 89, année 2026-2027.
 Intervenant : Adrien Chiodo.
@@ -32,6 +32,12 @@ agence de conseil en données, spécialisée dans le tourisme et l'hôtellerie.
 
 Le résumé de chaque séance passée, avec ses supports en PDF, est sur la page
 [Séances](seances.html).
+
+## Le projet
+
+Les quatre missions de l'agence, leurs documents et le jalon 1 du
+15 octobre : page [Projet](projet.html). Pour vous servir d'un assistant IA
+comme d'un tuteur : le [kit tuteur](kit-tuteur.html).
 
 ## Votre dépôt de binôme
 

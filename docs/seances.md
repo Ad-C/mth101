@@ -2,7 +2,7 @@
 title: Séances
 ---
 
-[Accueil](./) · **Séances** · [FAQ GitHub](faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
+[Accueil](./) · **Séances** · [Projet](projet.html) · [Kit tuteur](kit-tuteur.html) · [FAQ GitHub](faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
 Le résumé de chaque séance passée, avec ses supports en PDF.
 
