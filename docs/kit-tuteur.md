@@ -21,7 +21,7 @@ Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e
 ## En trois étapes
 
 1. **Ouvrez votre assistant IA**, dans une nouvelle conversation.
-2. **Joignez trois documents en PDF** : la commande de votre mission et sa note de cadrage, sur la page [Projet](projet.html), et la carte du module.
+2. **Joignez trois documents en PDF**, tous sur la page [Projet](projet.html) : la commande de votre mission, sa note de cadrage et la carte du module.
 3. **Collez la consigne ci-dessous**, après avoir remplacé les crochets : `[nom de la mission]` par le titre de votre mission, par exemple « Les annulations » ; `[nom de l'agence]` par le nom de l'agence, ou effacez-le, crochets compris, tant que ce nom n'est pas annoncé.
 
 ## La consigne
