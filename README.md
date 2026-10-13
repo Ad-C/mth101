@@ -43,6 +43,9 @@ Chaque séance en présence consacre une partie de son temps au projet.
 - `docs/` : la page du cours, publiée sur GitHub Pages : supports en PDF,
   résumé de chaque séance passée, page du projet (`docs/projet.md`), kit
   tuteur (`docs/kit-tuteur.md`) et FAQ GitHub (`docs/faq.md`).
+- `tuteur/base-connaissances.md` : la base de connaissances du kit tuteur,
+  un seul fichier qui réunit les documents publiés du cours, à joindre à
+  votre assistant IA (page « Kit tuteur »).
 - `notebooks/` : les notebooks des séances, à copier dans le dépôt de votre
   binôme (voir le `README` du dossier).
 - `donnees/queue-times/` : des relevés de temps d'attente, constitués pour le
@@ -74,6 +77,8 @@ Une licence par composant :
   [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr).
   Vous pouvez les partager en citant l'auteur, sans usage commercial ni
   version modifiée.
+- **Base de connaissances** (`tuteur/`) : elle reprend le texte des supports
+  et des pages, sous la même licence, CC BY-NC-ND 4.0.
 - **Relevés de temps d'attente** (`donnees/queue-times/`) : données de
   Queue-Times, soumises à ses conditions ; la mention
   « [Powered by Queue-Times.com](https://queue-times.com/) », avec un lien,
