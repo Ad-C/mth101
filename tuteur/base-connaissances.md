@@ -26,7 +26,7 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
-depot-public: Ad-C/mth101, b77cb4e
+depot-public: Ad-C/mth101, df21d35
 genere: '2026-10-14'
 ---
 
@@ -1016,6 +1016,8 @@ Un assistant IA peut vous aider à comprendre une notion ou à vérifier un rais
 - L’IA est permise pour comprendre et vérifier, pas pour produire les livrables à la place de l’équipe.
 - L’écrit se termine par une courte déclaration d’usage : les outils, et pour quoi faire.
 - Chacun doit savoir expliquer tout ce que l’équipe rend.
+
+L’assistant peut se tromper : en cas de doute, ce sont les documents du cours et l’intervenant qui font foi.
 
 ### Aucune donnée personnelle
 
