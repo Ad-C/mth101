@@ -14,6 +14,8 @@ Un assistant IA peut vous aider à comprendre une notion ou à vérifier un rais
 - L'écrit se termine par une courte déclaration d'usage : les outils, et pour quoi faire.
 - Chacun doit savoir expliquer tout ce que l'équipe rend.
 
+L'assistant peut se tromper : en cas de doute, ce sont les documents du cours et l'intervenant qui font foi.
+
 ## Aucune donnée personnelle
 
 Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e-mail, ni numéro de téléphone, ni identifiant, ni rien qui permette de reconnaître une personne, que ce soit vous, un camarade ou un répondant de l'omnibus. Aucun mot de passe non plus.
