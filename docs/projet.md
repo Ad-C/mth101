@@ -15,6 +15,8 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Kit tuteur](kit-tuteur.html) : la consigne pour vous servir d'un assistant IA comme d'un tuteur, et la règle d'usage de l'IA.
 - [Carte du module (PDF)](supports/polycopie/mth101-carte-du-module.pdf), à joindre au kit tuteur avec votre commande et votre note de cadrage.
 - [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf), à travailler en autonomie d'ici le vendredi 23 octobre.
+- [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
+- [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 
 **La règle du jalon 1.** Le protocole doit être synchronisé, donc visible sur github.com, avant le jeudi 15 octobre à 23 h 59. Il est commité avant toute analyse : aucun fichier de `projet/analyses/` ne le précède dans l'historique.
 
