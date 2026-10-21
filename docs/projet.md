@@ -14,7 +14,8 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Parcours en autonomie : les lois discrètes (PDF)](supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf), les 60 premières minutes
 - [Kit tuteur](kit-tuteur.html) : la consigne pour vous servir d'un assistant IA comme d'un tuteur, et la règle d'usage de l'IA.
 - [Carte du module (PDF)](supports/polycopie/mth101-carte-du-module.pdf), à joindre au kit tuteur avec votre commande et votre note de cadrage.
-- [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf), à travailler en autonomie d'ici le vendredi 23 octobre.
+- [Chapitre 1 du polycopié : probabilités et probabilités conditionnelles (PDF)](supports/polycopie/mth101-chapitre-01-probabilites-conditionnelles.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-01-corriges.pdf), avec son annexe, [la boîte à outils (PDF)](supports/polycopie/mth101-boite-a-outils.pdf) : les bases de calcul du polycopié ; les réponses de ses questions éclair sont dans les corrigés du chapitre 1.
+- [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-02-corriges.pdf), à travailler en autonomie d'ici le vendredi 23 octobre.
 - [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
 - [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 
