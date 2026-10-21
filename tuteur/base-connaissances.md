@@ -26,8 +26,8 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
-depot-public: Ad-C/mth101, df21d35
-genere: '2026-10-14'
+depot-public: Ad-C/mth101, 399ff37
+genere: '2026-10-21'
 ---
 
 # Base de connaissances du tuteur de MTH101
@@ -138,7 +138,7 @@ Les lois discrètes, prévues l’après-midi, n’ont pas pu être traitées : 
 ### Pour la prochaine fois
 
 - Jeudi 15 octobre, en autonomie : le [parcours sur les lois discrètes](https://ad-c.github.io/mth101/supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf), 60 minutes, puis le jalon 1 de votre mission, avant 23 h 59. La [feuille de route](https://ad-c.github.io/mth101/supports/projet/mth101-feuille-de-route-jalon-1.pdf) en donne le déroulé.
-- D’ici le vendredi 23 octobre, en autonomie : la fin du théorème de Bayes, avec les diapositives du matin, les exercices 1 à 7 et leurs [corrigés](https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf), puis le chapitre 2 du polycopié dès sa parution. Un rappel de 20 minutes ouvrira la séance du 23 octobre.
+- D’ici le vendredi 23 octobre, en autonomie : la fin du théorème de Bayes, avec les diapositives du matin, les exercices 1 à 7 et leurs [corrigés](https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf), puis le [chapitre 2 du polycopié](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf). Un rappel de 20 minutes ouvrira la séance du 23 octobre.
 
 ## Le théorème de Bayes : la fin, en autonomie
 
@@ -146,9 +146,8 @@ Le théorème de Bayes a été commencé le vendredi 9 octobre au matin. La fin 
 
 - les diapositives du 9 octobre au matin : https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seance-02-diapos.pdf ;
 - les exercices 1 à 7 du fascicule du 9 octobre : https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices.pdf ;
-- leurs corrigés : https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf.
-
-Le chapitre 2 du polycopié, « Le théorème de Bayes », n’est pas encore paru : il complétera ces documents dès sa parution.
+- leurs corrigés : https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf ;
+- le chapitre 2 du polycopié, « Le théorème de Bayes » : https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf.
 
 Un rappel de 20 minutes ouvrira la séance du vendredi 23 octobre.
 
@@ -522,6 +521,7 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Parcours en autonomie : les lois discrètes (PDF)](https://ad-c.github.io/mth101/supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf), les 60 premières minutes
 - [Kit tuteur](https://ad-c.github.io/mth101/kit-tuteur.html) : la consigne pour vous servir d’un assistant IA comme d’un tuteur, et la règle d’usage de l’IA.
 - [Carte du module (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-carte-du-module.pdf), à joindre au kit tuteur avec votre commande et votre note de cadrage.
+- [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf), à travailler en autonomie d’ici le vendredi 23 octobre.
 
 **La règle du jalon 1.** Le protocole doit être synchronisé, donc visible sur github.com, avant le jeudi 15 octobre à 23 h 59. Il est commité avant toute analyse : aucun fichier de `projet/analyses/` ne le précède dans l’historique.
 
@@ -998,7 +998,7 @@ Ces ressources sont libres d’accès. Elles montrent les mêmes idées autremen
 |----|----|----|
 | Khan Academy, en français : fr.khanacademy.org/math/statistics-probability | Des vidéos et des exercices corrigés, à votre rythme. | 1 à 5 |
 | La statistique expliquée à mon chat, YouTube, en français | Des vidéos de quelques minutes : variables aléatoires, lois, théorème central limite. | 3 et 4 |
-| Monsieur Phi, « La loi de Bayes (1/2) », YouTube, en français | Le raisonnement bayésien en douze minutes. | 2 |
+| Monsieur Phi, « La loi de Bayes (1/2) », YouTube, en français | Le raisonnement bayésien en une dizaine de minutes. | 2 |
 | Seeing Theory, université Brown : seeing-theory.brown.edu, en anglais | Des visualisations interactives : on lance pièces et dés, et l’on voit les lois apparaître. | 1 à 5 |
 | OpenIntro Statistics : openintro.org/book/os, en anglais | Un manuel d’introduction gratuit en PDF, riche en exercices. | 1 à 5 |
 | Think Stats, Allen B. Downey : greenteapress.com/wp/think-stats-3e, en anglais | Probabilités et statistique pour programmeurs Python, en carnets Jupyter à exécuter en ligne. | 3 à 5 |
@@ -1009,7 +1009,7 @@ Page : https://ad-c.github.io/mth101/kit-tuteur.html
 
 Un assistant IA peut vous aider à comprendre une notion ou à vérifier un raisonnement, s’il joue le rôle d’un tuteur et non celui d’un sous-traitant. Cette page donne la consigne à lui confier, le fichier à lui joindre, et les règles de son usage dans le cours.
 
-*Mise à jour : 14 octobre 2026.*
+*Mise à jour : 21 octobre 2026.*
 
 ### La règle d’usage de l’IA
 
@@ -1025,7 +1025,7 @@ Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e
 
 ### La base de connaissances
 
-[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 14 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
+[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 21 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
 
 - Ajoutez-le aux fichiers de votre projet Claude, ou joignez-le à la conversation de votre assistant.
 - La consigne de cette page suffit.
