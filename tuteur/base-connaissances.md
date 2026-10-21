@@ -26,7 +26,7 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
-depot-public: Ad-C/mth101, 340d9d2
+depot-public: Ad-C/mth101, f60cf91
 genere: '2026-10-21'
 ---
 
@@ -147,7 +147,7 @@ Le théorème de Bayes a été commencé le vendredi 9 octobre au matin. La fin 
 - les diapositives du 9 octobre au matin : https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seance-02-diapos.pdf ;
 - les exercices 1 à 7 du fascicule du 9 octobre : https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices.pdf ;
 - leurs corrigés : https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf ;
-- le chapitre 2 du polycopié, « Le théorème de Bayes » : https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf.
+- le chapitre 2 du polycopié, « Le théorème de Bayes » : https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf, et ses corrigés : https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-corriges.pdf.
 
 Un rappel de 20 minutes ouvrira la séance du vendredi 23 octobre.
 
@@ -521,7 +521,8 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Parcours en autonomie : les lois discrètes (PDF)](https://ad-c.github.io/mth101/supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf), les 60 premières minutes
 - [Kit tuteur](https://ad-c.github.io/mth101/kit-tuteur.html) : la consigne pour vous servir d’un assistant IA comme d’un tuteur, et la règle d’usage de l’IA.
 - [Carte du module (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-carte-du-module.pdf), à joindre au kit tuteur avec votre commande et votre note de cadrage.
-- [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf), à travailler en autonomie d’ici le vendredi 23 octobre.
+- [Chapitre 1 du polycopié : probabilités et probabilités conditionnelles (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-01-probabilites-conditionnelles.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-01-corriges.pdf), avec son annexe, [la boîte à outils (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-boite-a-outils.pdf) : les bases de calcul du polycopié ; les réponses de ses questions éclair sont dans les corrigés du chapitre 1.
+- [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-corriges.pdf), à travailler en autonomie d’ici le vendredi 23 octobre.
 - [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
 - [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 
@@ -936,7 +937,7 @@ Le cours tient en une matinée et deux journées, du 7 au 23 octobre. Les après
 | Jeu. 12/11, journée | Soutenances |  |
 | Jeu. 28/01, après-midi | Examen individuel, commun avec MTH102 |  |
 
-Le chapitre 2 est paru le 21 octobre ; les chapitres 1 et 3 paraissent la semaine du 26 octobre, le chapitre 1 avec une annexe, la boîte à outils. Les chapitres 4 et 5 paraissent avant le 23 octobre : vous pourrez les lire avant le cours. Le chapitre 6, sur la décision, paraît avant le 6 novembre, pour préparer les soutenances. Un kit de révision suivra, avant l’examen, dont la forme vous sera communiquée.
+Les chapitres 1, 2, 4 et 5 sont parus, le chapitre 1 avec une annexe, la boîte à outils ; le chapitre 3 paraît la semaine du 26 octobre. Le chapitre 6, sur la décision, paraît avant le 6 novembre, pour préparer les soutenances. Un kit de révision suivra, avant l’examen, dont la forme vous sera communiquée.
 
 ### Comment se lit un chapitre
 
@@ -950,7 +951,7 @@ Tous les chapitres suivent le même plan.
 6.  Des exercices gradués, et leurs corrigés dans un fascicule à part.
 7.  Pour aller plus loin : des ressources libres d’accès.
 
-La boîte à outils rassemble les bases de calcul dont tout le reste dépend : fractions, pourcentages, symbole somme, notation des ensembles, lecture d’un tableau. Les chapitres y renvoient au moment où ils s’en servent.
+La boîte à outils rassemble les bases de calcul : fractions, pourcentages, arrondis, puissances et racine carrée, symbole somme, notation des ensembles, lecture d’un tableau. Les chapitres y renvoient au moment où ils s’en servent.
 
 **Les chiffres.** Les chiffres réels sont toujours donnés avec leur source. Les autres sont inventés pour l’exemple, et signalés comme tels.
 
@@ -972,19 +973,19 @@ Le théorème de Bayes retourne une probabilité conditionnelle : de la probabil
 
 Une variable aléatoire associe un nombre au résultat d’une expérience. La loi de Bernoulli décrit une épreuve à deux issues, oui ou non. La loi binomiale compte les succès sur un nombre fixé d’épreuves indépendantes de même probabilité. La loi de Poisson compte des événements qui surviennent au hasard, à un rythme moyen connu, pendant une durée donnée. L’espérance est la moyenne que l’on obtiendrait en répétant l’expérience un très grand nombre de fois. La variance et l’écart-type mesurent la dispersion autour de cette moyenne, l’écart-type dans la même unité que le résultat.
 
-*À quoi ça sert.* À l’agence, à prévoir combien de clients viendront au petit-déjeuner, et avec quelle marge. Côté IA, à modéliser les conversions d’un test A/B ou le nombre de requêtes reçues par un serveur. Ailleurs, à modéliser le nombre de bonnes réponses d’un QCM rempli au hasard, ou de buts dans un match de football.
+*À quoi ça sert.* À l’agence, à prévoir combien de commandes le room service recevra un soir, et avec quelle marge. Côté IA, à modéliser les conversions d’un test A/B ou le nombre de requêtes reçues par un serveur. Ailleurs, à modéliser le nombre de bonnes réponses d’un QCM rempli au hasard, ou de buts dans un match de football.
 
 #### Chapitre 4 · Loi normale et théorème central limite
 
 La loi normale, la courbe en cloche, est entièrement décrite par sa moyenne et son écart-type. Environ 95 % de ses valeurs tombent à moins de deux écarts-types de la moyenne. Le théorème central limite explique pourquoi on la rencontre si souvent : la moyenne d’un grand nombre d’observations indépendantes, tirées d’une même loi, suit à peu près une loi normale, même quand chaque observation n’en suit pas une. C’est grâce à lui qu’on pourra dire, au chapitre 5, avec quelle précision une moyenne ou un pourcentage est connu.
 
-*À quoi ça sert.* À l’agence, à comprendre pourquoi la dépense moyenne de 200 clients d’un restaurant varie bien moins que la dépense d’un seul. Côté IA, le taux de bonnes réponses d’un modèle sur un jeu de test est une moyenne : le théorème aide à dire de combien il peut varier d’un jeu de test à l’autre.
+*À quoi ça sert.* À l’agence, à comprendre pourquoi la dépense moyenne de cent clients d’un spa varie bien moins que celle d’un seul. Côté IA, le taux de bonnes réponses d’un modèle sur un jeu de test est une moyenne : le théorème aide à dire de combien il peut varier d’un jeu de test à l’autre.
 
 #### Chapitre 5 · Estimation, intervalle de confiance, test de deux proportions
 
 Un échantillon donne une estimation, un autre en donnerait une autre. L’intervalle de confiance à 95 % encadre la valeur inconnue par une méthode qui, appliquée à de nombreux échantillons, la capture environ 95 fois sur 100. La précision se paie en données : pour diviser la marge d’erreur par deux, il faut quatre fois plus d’observations. Le test de deux proportions pose une question précise : si les deux groupes avaient en réalité le même taux, un écart aussi grand que celui observé serait-il courant ? Enfin, pour savoir si une action produit un effet, on tire au sort qui la reçoit : c’est le principe du test A/B.
 
-*À quoi ça sert.* À l’agence, à estimer la part des clients qui jugent acceptable un prix variant selon la demande, et à comparer deux groupes de clients. Côté IA, à évaluer un modèle avec sa marge d’erreur. Jev, présenté le 15 septembre 2026 par TypeSafe AI, répond par une probabilité plutôt que par un texte, et son fabricant le dit calibré : quand il annonce 90 %, il devrait avoir raison environ 9 fois sur 10. Le vérifier, c’est estimer une proportion avec son intervalle de confiance. Ailleurs, c’est la marge d’erreur d’un sondage.
+*À quoi ça sert.* À l’agence, à estimer la part des clients qui jugent acceptable un prix variant selon la demande, et à comparer deux groupes de clients. Côté IA, à évaluer un modèle avec sa marge d’erreur. Jev, présenté le 15 septembre 2026 par TypeSafe AI, répond par une probabilité plutôt que par un texte. Un tel modèle est calibré quand, parmi ses réponses données à 90 %, environ 9 sur 10 sont justes. Le vérifier, c’est estimer une proportion avec son intervalle de confiance. Ailleurs, c’est la marge d’erreur d’un sondage.
 
 #### Chapitre 6 · De la donnée à la décision : recommander sous incertitude
 
