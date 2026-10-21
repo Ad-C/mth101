@@ -26,7 +26,7 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
-depot-public: Ad-C/mth101, 399ff37
+depot-public: Ad-C/mth101, 340d9d2
 genere: '2026-10-21'
 ---
 
@@ -522,6 +522,8 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Kit tuteur](https://ad-c.github.io/mth101/kit-tuteur.html) : la consigne pour vous servir d’un assistant IA comme d’un tuteur, et la règle d’usage de l’IA.
 - [Carte du module (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-carte-du-module.pdf), à joindre au kit tuteur avec votre commande et votre note de cadrage.
 - [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf), à travailler en autonomie d’ici le vendredi 23 octobre.
+- [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
+- [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 
 **La règle du jalon 1.** Le protocole doit être synchronisé, donc visible sur github.com, avant le jeudi 15 octobre à 23 h 59. Il est commité avant toute analyse : aucun fichier de `projet/analyses/` ne le précède dans l’historique.
 
@@ -934,7 +936,7 @@ Le cours tient en une matinée et deux journées, du 7 au 23 octobre. Les après
 | Jeu. 12/11, journée | Soutenances |  |
 | Jeu. 28/01, après-midi | Examen individuel, commun avec MTH102 |  |
 
-Les chapitres 1 à 3 paraissent dans les jours qui suivent leur séance, le chapitre 1 avec une annexe, la boîte à outils. Les chapitres 4 et 5 paraissent avant le 23 octobre : vous pourrez les lire avant le cours. Le chapitre 6 relie les résultats à la décision. Il paraît avant le 6 novembre, pour préparer les soutenances. Un kit de révision suivra, avant l’examen, dont la forme vous sera communiquée.
+Le chapitre 2 est paru le 21 octobre ; les chapitres 1 et 3 paraissent la semaine du 26 octobre, le chapitre 1 avec une annexe, la boîte à outils. Les chapitres 4 et 5 paraissent avant le 23 octobre : vous pourrez les lire avant le cours. Le chapitre 6, sur la décision, paraît avant le 6 novembre, pour préparer les soutenances. Un kit de révision suivra, avant l’examen, dont la forme vous sera communiquée.
 
 ### Comment se lit un chapitre
 
@@ -945,7 +947,7 @@ Tous les chapitres suivent le même plan.
 3.  Côté IA et data : le même outil dans les métiers que vous préparez.
 4.  Ailleurs aussi : le même raisonnement dans la vie courante.
 5.  Méthodes et pièges : les erreurs classiques, et comment les éviter.
-6.  Des exercices gradués, corrigés en fin de chapitre.
+6.  Des exercices gradués, et leurs corrigés dans un fascicule à part.
 7.  Pour aller plus loin : des ressources libres d’accès.
 
 La boîte à outils rassemble les bases de calcul dont tout le reste dépend : fractions, pourcentages, symbole somme, notation des ensembles, lecture d’un tableau. Les chapitres y renvoient au moment où ils s’en servent.
