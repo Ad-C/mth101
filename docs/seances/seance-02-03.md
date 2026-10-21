@@ -24,4 +24,4 @@ Les lois discrètes, prévues l'après-midi, n'ont pas pu être traitées : elle
 ## Pour la prochaine fois
 
 - Jeudi 15 octobre, en autonomie : le [parcours sur les lois discrètes](../supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf), 60 minutes, puis le jalon 1 de votre mission, avant 23 h 59. La [feuille de route](../supports/projet/mth101-feuille-de-route-jalon-1.pdf) en donne le déroulé.
-- D'ici le vendredi 23 octobre, en autonomie : la fin du théorème de Bayes, avec les diapositives du matin, les exercices 1 à 7 et leurs [corrigés](../supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf), puis le chapitre 2 du polycopié dès sa parution. Un rappel de 20 minutes ouvrira la séance du 23 octobre.
+- D'ici le vendredi 23 octobre, en autonomie : la fin du théorème de Bayes, avec les diapositives du matin, les exercices 1 à 7 et leurs [corrigés](../supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf), puis le [chapitre 2 du polycopié](../supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf). Un rappel de 20 minutes ouvrira la séance du 23 octobre.

@@ -14,6 +14,7 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Parcours en autonomie : les lois discrètes (PDF)](supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf), les 60 premières minutes
 - [Kit tuteur](kit-tuteur.html) : la consigne pour vous servir d'un assistant IA comme d'un tuteur, et la règle d'usage de l'IA.
 - [Carte du module (PDF)](supports/polycopie/mth101-carte-du-module.pdf), à joindre au kit tuteur avec votre commande et votre note de cadrage.
+- [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf), à travailler en autonomie d'ici le vendredi 23 octobre.
 
 **La règle du jalon 1.** Le protocole doit être synchronisé, donc visible sur github.com, avant le jeudi 15 octobre à 23 h 59. Il est commité avant toute analyse : aucun fichier de `projet/analyses/` ne le précède dans l'historique.
 
