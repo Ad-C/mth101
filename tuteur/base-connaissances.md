@@ -26,8 +26,8 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
-depot-public: Ad-C/mth101, f60cf91
-genere: '2026-10-21'
+depot-public: Ad-C/mth101, 346fd42
+genere: '2026-10-22'
 ---
 
 # Base de connaissances du tuteur de MTH101
@@ -523,6 +523,7 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Carte du module (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-carte-du-module.pdf), à joindre au kit tuteur avec votre commande et votre note de cadrage.
 - [Chapitre 1 du polycopié : probabilités et probabilités conditionnelles (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-01-probabilites-conditionnelles.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-01-corriges.pdf), avec son annexe, [la boîte à outils (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-boite-a-outils.pdf) : les bases de calcul du polycopié ; les réponses de ses questions éclair sont dans les corrigés du chapitre 1.
 - [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-corriges.pdf), à travailler en autonomie d’ici le vendredi 23 octobre.
+- [Chapitre 3 du polycopié : lois discrètes ; espérance, variance, écart-type (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-03-lois-discretes.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-03-corriges.pdf), qui reprend le parcours du jeudi 15 octobre et va plus loin.
 - [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
 - [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 
@@ -937,7 +938,7 @@ Le cours tient en une matinée et deux journées, du 7 au 23 octobre. Les après
 | Jeu. 12/11, journée | Soutenances |  |
 | Jeu. 28/01, après-midi | Examen individuel, commun avec MTH102 |  |
 
-Les chapitres 1, 2, 4 et 5 sont parus, le chapitre 1 avec une annexe, la boîte à outils ; le chapitre 3 paraît la semaine du 26 octobre. Le chapitre 6, sur la décision, paraît avant le 6 novembre, pour préparer les soutenances. Un kit de révision suivra, avant l’examen, dont la forme vous sera communiquée.
+Les chapitres 1 à 5 sont parus, le chapitre 1 avec une annexe, la boîte à outils. Le chapitre 6, sur la décision, paraît avant le 6 novembre, pour préparer les soutenances. Un kit de révision suivra, avant l’examen, dont la forme vous sera communiquée.
 
 ### Comment se lit un chapitre
 
@@ -1012,7 +1013,7 @@ Page : https://ad-c.github.io/mth101/kit-tuteur.html
 
 Un assistant IA peut vous aider à comprendre une notion ou à vérifier un raisonnement, s’il joue le rôle d’un tuteur et non celui d’un sous-traitant. Cette page donne la consigne à lui confier, le fichier à lui joindre, et les règles de son usage dans le cours.
 
-*Mise à jour : 21 octobre 2026.*
+*Mise à jour : 22 octobre 2026.*
 
 ### La règle d’usage de l’IA
 
@@ -1028,7 +1029,7 @@ Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e
 
 ### La base de connaissances
 
-[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 21 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
+[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 22 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
 
 - Ajoutez-le aux fichiers de votre projet Claude, ou joignez-le à la conversation de votre assistant.
 - La consigne de cette page suffit.
