@@ -26,7 +26,7 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
-depot-public: Ad-C/mth101, 346fd42
+depot-public: Ad-C/mth101, 586ee2d
 genere: '2026-10-22'
 ---
 
@@ -526,6 +526,7 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Chapitre 3 du polycopié : lois discrètes ; espérance, variance, écart-type (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-03-lois-discretes.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-03-corriges.pdf), qui reprend le parcours du jeudi 15 octobre et va plus loin.
 - [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
 - [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
+- [Chapitre 6 du polycopié : de la donnée à la décision, recommander sous incertitude (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-06-donnee-decision.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-06-corriges.pdf), pour rédiger vos recommandations et préparer les soutenances.
 
 **La règle du jalon 1.** Le protocole doit être synchronisé, donc visible sur github.com, avant le jeudi 15 octobre à 23 h 59. Il est commité avant toute analyse : aucun fichier de `projet/analyses/` ne le précède dans l’historique.
 
@@ -938,7 +939,7 @@ Le cours tient en une matinée et deux journées, du 7 au 23 octobre. Les après
 | Jeu. 12/11, journée | Soutenances |  |
 | Jeu. 28/01, après-midi | Examen individuel, commun avec MTH102 |  |
 
-Les chapitres 1 à 5 sont parus, le chapitre 1 avec une annexe, la boîte à outils. Le chapitre 6, sur la décision, paraît avant le 6 novembre, pour préparer les soutenances. Un kit de révision suivra, avant l’examen, dont la forme vous sera communiquée.
+Les six chapitres sont parus, le chapitre 1 avec une annexe, la boîte à outils. Un kit de révision suivra, avant l’examen, dont la forme vous sera communiquée.
 
 ### Comment se lit un chapitre
 
