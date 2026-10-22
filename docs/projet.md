@@ -19,6 +19,7 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Chapitre 3 du polycopié : lois discrètes ; espérance, variance, écart-type (PDF)](supports/polycopie/mth101-chapitre-03-lois-discretes.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-03-corriges.pdf), qui reprend le parcours du jeudi 15 octobre et va plus loin.
 - [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
 - [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
+- [Chapitre 6 du polycopié : de la donnée à la décision, recommander sous incertitude (PDF)](supports/polycopie/mth101-chapitre-06-donnee-decision.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-06-corriges.pdf), pour rédiger vos recommandations et préparer les soutenances.
 
 **La règle du jalon 1.** Le protocole doit être synchronisé, donc visible sur github.com, avant le jeudi 15 octobre à 23 h 59. Il est commité avant toute analyse : aucun fichier de `projet/analyses/` ne le précède dans l'historique.
 
