@@ -6,7 +6,7 @@ title: Kit tuteur
 
 Un assistant IA peut vous aider à comprendre une notion ou à vérifier un raisonnement, s'il joue le rôle d'un tuteur et non celui d'un sous-traitant. Cette page donne la consigne à lui confier, le fichier à lui joindre, et les règles de son usage dans le cours.
 
-*Mise à jour : 22 octobre 2026.*
+*Mise à jour : 23 octobre 2026.*
 
 ## La règle d'usage de l'IA
 
@@ -22,7 +22,7 @@ Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e
 
 ## La base de connaissances
 
-[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 22 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l'enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
+[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 23 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l'enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
 
 - Ajoutez-le aux fichiers de votre projet Claude, ou joignez-le à la conversation de votre assistant.
 - La consigne de cette page suffit.
