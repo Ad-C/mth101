@@ -1,6 +1,7 @@
 ---
 type: base-connaissances
 origine:
+- https://learn.ga.university/d2l/home/6803, module « Commencer ici »
 - https://ad-c.github.io/mth101/
 - https://ad-c.github.io/mth101/seances/seance-01.html
 - https://ad-c.github.io/mth101/seances/seance-02-03.html
@@ -26,8 +27,8 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
-depot-public: Ad-C/mth101, 586ee2d
-genere: '2026-10-22'
+depot-public: Ad-C/mth101, 5d175b1
+genere: '2026-10-23'
 ---
 
 # Base de connaissances du tuteur de MTH101
@@ -35,11 +36,16 @@ genere: '2026-10-22'
 Ce fichier rassemble les documents publiés pour les étudiants du cours MTH101
 (Bachelor IA, 1re année, École 89, 2026-2027), tels qu’ils sont en ligne à la
 date de génération. Il ne contient rien d’autre. Il a deux sortes de
-parties : la partie commune (le cours, son calendrier, ce qui a été vu, les
-exercices du 9 octobre et les corrigés des exercices 1 à 7, le projet, le
-jalon 1 du 15 octobre, les aides), puis une partie par mission,
-avec la commande du client, la note de cadrage et le kit, partie 1. Chaque
-document donne son adresse publique, à citer quand on y renvoie.
+parties : la partie commune (le mode d’emploi du cours et ses mises à jour,
+puis le cours, son calendrier, ce qui a été vu, les exercices du 9 octobre et
+les corrigés des exercices 1 à 7, le projet, le jalon 1, les aides), puis une
+partie par mission, avec la commande du client, la note de cadrage et le kit,
+partie 1. Chaque document donne son adresse publique, à citer quand on y
+renvoie.
+
+En cas de différence entre deux documents, le mode d’emploi fait foi ; les
+mises à jour du 23 octobre, qui le suivent, remplacent les dates et les
+consignes des documents plus anciens.
 
 Ce qui n’y figure pas n’est pas connu : il se demande à l’intervenant.
 
@@ -47,9 +53,79 @@ Ce qui n’y figure pas n’est pas connu : il se demande à l’intervenant.
 
 # Partie commune
 
+## MTH101 · Mode d’emploi
+
+Page : Brightspace, module « Commencer ici » : https://learn.ga.university/d2l/home/6803
+
+Mis à jour le vendredi 23 octobre 2026
+
+Tout part d’ici : ce module donne accès à tout le reste du cours. En cas de différence avec un autre document du cours, ce mode d’emploi fait foi.
+
+### 1. Ce qui est évalué
+
+Trois choses, et seulement trois :
+
+- votre présence et votre participation : assiduité, contribution aux exercices en séance et aux points d’étape du projet, dont les commits de chacun sur GitHub ; les quiz Kahoot en séance comptent dans la participation ;
+- le projet en équipe : l’écrit et la soutenance du jeudi 12 novembre ;
+- l’examen individuel écrit, le jeudi 28 janvier après-midi.
+
+### 2. Le cours et les exercices, pour préparer l’examen
+
+- Le polycopié est le texte de référence : six chapitres, chacun avec ses exercices et leurs corrigés.
+- Les exercices ne sont pas à rendre et ne passent plus par GitHub. Ils servent à vous entraîner : les exercices de l’examen seront construits sur leur modèle.
+- En séance, l’essentiel de chaque chapitre est présenté, avec des exercices de référence. Le reste se travaille seul ou en groupe, régulièrement, sans attendre janvier.
+- Un kit de révision paraîtra avant l’examen.
+
+### 3. Le projet : GitHub ne sert qu’à lui
+
+Chaque équipe travaille dans son dépôt. Chacun commite depuis son propre compte, régulièrement : l’historique montre qui a fait quoi. La commande, la note de cadrage et le kit de votre mission sont sur la page Projet.
+
+| Date | Ce qui est attendu |
+|----|----|
+| Dim. 25/10, 23 h 59 | Jalon 1, nouveau délai sans pénalité : protocole, question pour l’omnibus et benchmark, visibles sur github.com |
+| Ven. 6/11 après-midi, en autonomie | Jalon 2 : analyses, simulateur qui tourne, plan de la soutenance |
+| Mer. 11/11, 23 h 59 | Remise de l’écrit |
+| Jeu. 12/11 | Soutenance : 10 minutes d’exposé, 8 de questions |
+
+La règle du jalon 1 ne change pas : le protocole est commité avant toute analyse.
+
+### 4. Si vous bloquez, dans cet ordre
+
+1.  Le polycopié, la page Projet et la FAQ.
+2.  Le tuteur en ligne, avec le code de votre équipe : 40 questions par équipe et par jour, sur le cours, le calendrier, les livrables et les données.
+3.  L’intervenant : adrien.chiodo@ecole-89.com, ou en séance.
+
+### 5. L’usage de l’IA
+
+Elle est permise pour comprendre et vérifier, pas pour produire vos livrables. L’écrit se termine par une courte déclaration de votre usage de l’IA, et chacun doit savoir expliquer tout ce que l’équipe rend.
+
+## Mises à jour du 23 octobre
+
+Ce qui suit complète le mode d’emploi, qui fait foi, et remplace ce que disent encore des documents plus anciens de cette base.
+
+**Le calendrier du projet.**
+
+| Date | Ce qui est attendu |
+|---|---|
+| Dim. 25/10, 23 h 59 | Jalon 1, sans pénalité : protocole, question pour l’omnibus et benchmark, visibles sur github.com |
+| Lun. 26/10 | Vous recevez votre jeu de répétition |
+| Ven. 6/11, 23 h 59 | Jalon 2 : analyses, simulateur qui tourne, plan de la soutenance |
+| Mer. 11/11, 23 h 59 | Remise de l’écrit |
+| Jeu. 12/11 | Soutenance : 10 minutes d’exposé, 8 de questions |
+
+Ces dates remplacent celles des documents plus anciens (page Projet, feuille de route du 15 octobre, commandes, notes de cadrage, kits, partie 1) : le jalon 1 du jeudi 15 octobre, le jeu de répétition et l’omnibus du vendredi 23 octobre, l’écrit du mardi 10 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.
+
+**Les exercices.** Les exercices ne se rendent plus et ne passent plus par GitHub : ils servent à s’entraîner, et GitHub ne sert qu’au projet. Les passages plus anciens qui disent de les terminer, de les copier ou de les pousser dans le dépôt de l’équipe, notebooks compris, ne valent plus.
+
+**Le polycopié est complet** : six chapitres, chacun avec ses exercices et leurs corrigés, et la boîte à outils, annexe du chapitre 1. Leurs adresses sont sur la page Projet, https://ad-c.github.io/mth101/projet.html ; leur texte n’est pas dans cette base.
+
+**Brightspace est ouvert** : https://learn.ga.university/d2l/home/6803. Tout part du module « Commencer ici » : le mode d’emploi, puis les liens utiles.
+
 ## Accueil
 
 Page : https://ad-c.github.io/mth101/
+
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
 
 Cours MTH101 du Bachelor IA, 1re année, de l’École 89, année 2026-2027. Intervenant : Adrien Chiodo.
 
@@ -118,6 +194,10 @@ Les exercices n’ont pas été faits en séance : ils ont été repris le 9 oct
 
 Page : https://ad-c.github.io/mth101/seances/seance-02-03.html
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
+*Mise à jour du 23 octobre : les exercices ne se rendent plus et ne passent plus par GitHub : ils servent à s’entraîner, et GitHub ne sert qu’au projet. Ce que ce document dit de leur place dans le dépôt de l’équipe ne vaut plus.*
+
 **Séances 2 et 3, vendredi 9 octobre, journée.** Le théorème de Bayes, commencé le matin ; les missions de l’agence l’après-midi.
 
 ### Ce que nous avons vu
@@ -154,6 +234,8 @@ Un rappel de 20 minutes ouvrira la séance du vendredi 23 octobre.
 ## Séances 2 et 3 · Exercices
 
 *Théorème de Bayes · Lois discrètes, espérance, variance. Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices.pdf
+
+*Mise à jour du 23 octobre : les exercices ne se rendent plus et ne passent plus par GitHub : ils servent à s’entraîner, et GitHub ne sert qu’au projet. Ce que ce document dit de leur place dans le dépôt de l’équipe ne vaut plus.*
 
 Quinze exercices pour la journée. Les exercices 1 à 7 suivent le théorème de Bayes, le matin ; les exercices 8 à 15, les lois discrètes, l’après-midi. Le formulaire et le parcours de consolidation sont en fin de fascicule : si l’on vous l’indique, commencez par le parcours. Ce qui n’est pas fini en séance se termine dans `exercices/seance-02.md` et `exercices/seance-03.md`, dans le dépôt du binôme.
 
@@ -511,6 +593,8 @@ Justifiez chaque réponse en une phrase.
 
 Page : https://ad-c.github.io/mth101/projet.html
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
 Les quatre missions de l’agence, tirées au sort le 9 octobre. Pour chacune : la commande du client, la note de cadrage et le kit de mission. Les missions tirées sont définitives.
 
 ### Jeudi 15 octobre : jalon 1
@@ -605,6 +689,10 @@ Attributions des données :
 
 *Une demi-journée en autonomie, jusqu’au jalon 1. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-feuille-de-route-jalon-1.pdf
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
+*Mise à jour du 23 octobre : Brightspace est ouvert, https://learn.ga.university/d2l/home/6803 ; tout part du module « Commencer ici ».*
+
 Une demi-journée en équipe, sans l’intervenant : un temps de cours, puis le jalon 1 de votre mission. Cette feuille vaut pour les quatre missions ; le kit de votre mission, partie 1, en donne le détail.
 
 ### 1. Le déroulé
@@ -662,6 +750,8 @@ Les relevés de temps d’attente, eux, arrivent chaque jour jusqu’au 12/11.
 ## Parcours en autonomie
 
 *Les lois discrètes · Jeudi 15 octobre, 60 minutes. Daté du jeudi 15 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf
+
+*Mise à jour du 23 octobre : les exercices ne se rendent plus et ne passent plus par GitHub : ils servent à s’entraîner, et GitHub ne sert qu’au projet. Ce que ce document dit de leur place dans le dépôt de l’équipe ne vaut plus.*
 
 **Avant de commencer.** Ouvrez votre codespace et synchronisez-le, pour récupérer ce que votre équipe a poussé. Si ce n’est pas déjà fait, tapez une fois dans un terminal (menu **Terminal**, **Nouveau terminal**) : `git config --global pull.rebase false`. Sans ce réglage, la synchronisation échoue dès que deux membres de l’équipe ont commité chacun de leur côté (FAQ du cours, question 3).
 
@@ -1014,7 +1104,7 @@ Page : https://ad-c.github.io/mth101/kit-tuteur.html
 
 Un assistant IA peut vous aider à comprendre une notion ou à vérifier un raisonnement, s’il joue le rôle d’un tuteur et non celui d’un sous-traitant. Cette page donne la consigne à lui confier, le fichier à lui joindre, et les règles de son usage dans le cours.
 
-*Mise à jour : 22 octobre 2026.*
+*Mise à jour : 23 octobre 2026.*
 
 ### La règle d’usage de l’IA
 
@@ -1030,7 +1120,7 @@ Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e
 
 ### La base de connaissances
 
-[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 22 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
+[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 23 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
 
 - Ajoutez-le aux fichiers de votre projet Claude, ou joignez-le à la conversation de votre assistant.
 - La consigne de cette page suffit.
@@ -1184,6 +1274,8 @@ Une question qui n’est pas ici ? Posez-la en séance : elle rejoindra cette pa
 
 Page : https://github.com/Ad-C/mth101/tree/main/notebooks
 
+*Mise à jour du 23 octobre : les exercices ne se rendent plus et ne passent plus par GitHub : ils servent à s’entraîner, et GitHub ne sert qu’au projet. Ce que ce document dit de leur place dans le dépôt de l’équipe ne vaut plus.*
+
 Les notebooks des séances, à copier dans le dossier `exercices/` du dépôt de votre binôme, puis à compléter et à pousser avec vos réponses.
 
 ### Séance 3 · Simuler les lois binomiale et de Poisson
@@ -1204,17 +1296,17 @@ Les notebooks de ce dossier sont versés dans le domaine public, [CC0 1.0](https
 
 ## Adresses utiles
 
+- Le cours sur Brightspace, à commencer par le module « Commencer ici » : https://learn.ga.university/d2l/home/6803
 - La page du cours : https://ad-c.github.io/mth101/
 - Les résumés des séances passées, avec leurs supports : https://ad-c.github.io/mth101/seances.html
-- Le projet (commandes, notes de cadrage, kits, feuille de route, tirage) : https://ad-c.github.io/mth101/projet.html
+- Le projet (commandes, notes de cadrage, kits, feuille de route, tirage) et le polycopié : https://ad-c.github.io/mth101/projet.html
 - Le kit tuteur et la règle d’usage de l’IA : https://ad-c.github.io/mth101/kit-tuteur.html
 - La FAQ GitHub : https://ad-c.github.io/mth101/faq.html
 - Le dépôt du cours, qui se consulte sans y écrire : https://github.com/Ad-C/mth101
-- Le dépôt modèle, d’où chaque équipe a créé son dépôt privé : https://github.com/Ad-C/mth101-modele
-- Les notebooks des séances, à copier dans le dossier exercices/ de son dépôt : https://github.com/Ad-C/mth101/tree/main/notebooks
+- Le dépôt modèle, d’où chaque équipe a créé son dépôt privé, pour le projet : https://github.com/Ad-C/mth101-modele
+- Les notebooks des séances, pour s’entraîner ; ils ne se rendent pas : https://github.com/Ad-C/mth101/tree/main/notebooks
 - Les relevés de temps d’attente : https://github.com/Ad-C/mth101/tree/main/donnees/queue-times (Powered by Queue-Times.com)
 - L’intervenant, Adrien Chiodo : adrien.chiodo@ecole-89.com
-- Brightspace, la nouvelle plateforme de l’école : les supports y seront aussi déposés quand elle sera ouverte.
 
 <!-- partie: a1-annulations -->
 
@@ -1223,6 +1315,8 @@ Les notebooks de ce dossier sont versés dans le domaine public, [CC0 1.0](https
 ## Mission A1 · Les annulations
 
 *Le vrai coût d’une chambre vide. Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-commande.pdf
+
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
 
 Thème A, « Séjourner » : hôtels et restaurants. Commande transmise à l’agence par son associé.
 
@@ -1267,6 +1361,8 @@ Source : N. Antonio, A. de Almeida, L. Nunes, « Hotel booking demand datasets �
 ## Les annulations · Note de cadrage
 
 *Le vrai coût d’une chambre vide. Daté du vendredi 9 octobre 2026, mise à jour le 13 octobre.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-note-de-cadrage.pdf
+
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
 
 De l’associé de l’agence à l’équipe chargée de la mission. La commande dit ce que veut le client ; cette note, ce que l’agence attend de vous et comment vous y prendre. Gardez les deux sous la main.
 
@@ -1373,6 +1469,8 @@ Une équipe de trois vise au moins un élément du niveau « excellent ».
 
 *Préparer le jalon 1 : protocole, omnibus, benchmark, données. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-kit-partie-1.pdf
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
 Le kit donne les outils de la mission ; la commande et la note de cadrage restent les références. Cette première partie prépare le jalon 1 du jeudi 15/10. La seconde arrivera le 23/10, avec votre jeu de répétition et le lancement de l’omnibus.
 
 ### 1. Le modèle de protocole
@@ -1452,6 +1550,8 @@ Votre question d’omnibus vous apportera d’autres réponses, après la collec
 
 *Quel hôtel l’IA recommande-t-elle ? Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-commande.pdf
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
 Thème A, « Séjourner » : hôtels et restaurants. Commande transmise à l’agence par son associé.
 
 ### Le client
@@ -1496,6 +1596,8 @@ Des données que vous produirez vous-mêmes, par un audit. Au moins 200 requête
 ## Recommandé par l’IA · Note de cadrage
 
 *Quel hôtel l’IA recommande-t-elle ? Daté du vendredi 9 octobre 2026, mise à jour le 13 octobre.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-note-de-cadrage.pdf
+
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
 
 De l’associé de l’agence à l’équipe chargée de la mission. La commande dit ce que veut le client ; cette note, ce que l’agence attend de vous et comment vous y prendre. Gardez les deux sous la main.
 
@@ -1601,6 +1703,8 @@ Une équipe de trois vise au moins un élément du niveau « excellent ».
 
 *Préparer le jalon 1 : protocole, omnibus, benchmark, données. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-kit-partie-1.pdf
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
 Le kit donne les outils de la mission ; la commande et la note de cadrage restent les références. Cette première partie prépare le jalon 1 du jeudi 15/10. La seconde arrivera le 23/10, avec votre jeu de répétition et le lancement de l’audit et de l’omnibus.
 
 ### 1. Le modèle de protocole
@@ -1672,6 +1776,8 @@ Les réponses collectées sont les données de l’équipe : conservez-les dans 
 
 *Combien de temps allez-vous attendre ? Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-commande.pdf
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
 Thème C, « Une journée de loisirs » : grands sites de loisirs et de patrimoine. Commande transmise à l’agence par son associé.
 
 ### Le client
@@ -1718,6 +1824,8 @@ Des relevés réels des temps d’attente affichés dans deux parcs : Disneyland
 ## Le temps d’attente · Note de cadrage
 
 *Combien de temps allez-vous attendre ? Daté du vendredi 9 octobre 2026, mise à jour le 13 octobre.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-note-de-cadrage.pdf
+
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
 
 De l’associé de l’agence à l’équipe chargée de la mission. La commande dit ce que veut le client ; cette note, ce que l’agence attend de vous et comment vous y prendre. Gardez les deux sous la main.
 
@@ -1824,6 +1932,8 @@ Une équipe de trois vise au moins un élément du niveau « excellent ».
 
 *Préparer le jalon 1 : protocole, omnibus, benchmark, données. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-kit-partie-1.pdf
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
 Le kit donne les outils de la mission ; la commande et la note de cadrage restent les références. Cette première partie prépare le jalon 1 du jeudi 15/10. La seconde arrivera le 23/10, avec votre jeu de répétition et le lancement de l’omnibus.
 
 ### 1. Le modèle de protocole
@@ -1895,6 +2005,8 @@ Votre question d’omnibus vous apportera d’autres réponses, après la collec
 
 *Robots et IA au service des visiteurs. Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+
 Thème C, « Une journée de loisirs » : grands sites de loisirs et de patrimoine. Commande transmise à l’agence par son associé.
 
 ### Le client
@@ -1938,6 +2050,8 @@ La direction de la restauration d’un grand site de loisirs (client fictif). El
 ## Les robots de service · Note de cadrage
 
 *Robots et IA au service des visiteurs. Daté du vendredi 9 octobre 2026, mise à jour le 13 octobre.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
+
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
 
 De l’associé de l’agence à l’équipe chargée de la mission. La commande dit ce que veut le client ; cette note, ce que l’agence attend de vous et comment vous y prendre. Gardez les deux sous la main.
 
@@ -2043,6 +2157,8 @@ Une équipe de trois vise au moins un élément du niveau « excellent ».
 ## Les robots de service · Kit, partie 1
 
 *Préparer le jalon 1 : protocole, omnibus, benchmark, données. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
+
+*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
 
 Le kit donne les outils de la mission ; la commande et la note de cadrage restent les références. Cette première partie prépare le jalon 1 du jeudi 15/10. La seconde arrivera le 23/10, avec votre jeu de répétition et le lancement de l’omnibus.
 
