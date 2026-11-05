@@ -6,7 +6,7 @@ title: FAQ GitHub
 
 Les questions posées sur GitHub et Codespaces, avec leur réponse. Les libellés sont ceux de VS Code en français ; ceux de github.com restent en anglais. Le guide GitHub distribué en séance reste la référence pour les premiers pas.
 
-*Mise à jour : 9 octobre 2026.*
+*Mise à jour : 5 novembre 2026.*
 
 **Une fois dans chaque nouveau codespace** : dans un terminal (menu ☰, **Terminal**, **Nouveau terminal**), tapez `git config --global pull.rebase false`. Sans ce réglage, la synchronisation échoue dès que vous et votre binôme avez commité chacun de votre côté (question 3).
 
@@ -103,13 +103,17 @@ Le `README.md` déjà présent vient du modèle : ce n'est pas votre protocole. 
 
 ## 10. Comment l'intervenant suit-il les dépôts ?
 
-Chaque semaine, et à chaque jalon, il lit l'historique de votre dépôt : les dates, les auteurs, les fichiers. Il regarde trois choses :
+Chaque semaine, et à chaque échéance, il lit votre dépôt tel qu'il est arrivé sur GitHub : l'historique (dates d'arrivée, auteurs, fichiers) et le contenu de ce que vous rendez. Il regarde quatre choses :
+
 - la régularité du travail ;
 - la présence de chaque membre ;
-- le respect des jalons, par exemple, au 15 octobre, un protocole commité avant toute analyse.
+- le respect des échéances, par exemple un protocole visible sur github.com à l'échéance, et commité avant toute analyse ;
+- ce qui est fait et ce qui manque, au regard des consignes de l'échéance et de votre note de cadrage.
 
-Le nombre de commits n'est pas une note : en multiplier de tout petits n'apporte rien. Si un membre n'apparaît plus depuis une semaine, l'intervenant pose la question à l'équipe : c'est une question, pas une sanction. Pour un travail à deux sur un seul écran, voir la question 8.
+Chaque équipe reçoit ensuite par e-mail un retour : ce qui est fait, ce qui manque, la prochaine étape. Pour le préparer, l'intervenant s'aide d'un outil d'IA (Claude Code, d'Anthropic), qui lit une copie de votre dépôt. Il vérifie lui-même votre dépôt, relit et complète chaque retour, puis vous l'envoie. Aucune note n'est attribuée automatiquement : c'est l'intervenant qui évalue. Le respect des consignes et des échéances entre dans la note du projet.
 
-Ses notes de suivi restent chez lui, hors de tout dépôt, et sont supprimées à la fin de la période d'évaluation.
+Le nombre de commits n'est pas une note : en multiplier de tout petits n'apporte rien. Si un membre n'apparaît plus depuis une semaine, l'intervenant lui pose directement la question : c'est une question, pas une sanction. Pour un travail à deux sur un seul écran, voir la question 8.
+
+Les copies de vos dépôts et ses notes de suivi restent chez lui, hors de tout dépôt, et sont supprimées à la fin de la période d'évaluation.
 
 Une question qui n'est pas ici ? Posez-la en séance : elle rejoindra cette page.
