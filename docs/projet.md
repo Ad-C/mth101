@@ -4,6 +4,8 @@ title: Projet
 
 [Accueil](./) · [Séances](seances.html) · **Projet** · [Kit tuteur](kit-tuteur.html) · [FAQ GitHub](faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
+**Calendrier mis à jour le 3/11 : le [mode d'emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.** Les consignes par mission pour la suite du projet paraîtront sur cette page le vendredi 6 novembre à midi au plus tard.
+
 Les quatre missions de l'agence, tirées au sort le 9 octobre. Pour chacune : la commande du client, la note de cadrage et le kit de mission. Les missions tirées sont définitives.
 
 ## Jeudi 15 octobre : jalon 1
@@ -33,8 +35,6 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 | Recommandé par l'IA | [PDF](supports/projet/mth101-a2-recommandation-ia-commande.pdf) | [PDF](supports/projet/mth101-a2-recommandation-ia-note-de-cadrage.pdf) | [PDF](supports/projet/mth101-a2-recommandation-ia-kit-partie-1.pdf) |
 | Le temps d'attente | [PDF](supports/projet/mth101-c1-temps-attente-commande.pdf) | [PDF](supports/projet/mth101-c1-temps-attente-note-de-cadrage.pdf) | [PDF](supports/projet/mth101-c1-temps-attente-kit-partie-1.pdf) |
 | Les robots de service | [PDF](supports/projet/mth101-c2-robots-de-service-commande.pdf) | [PDF](supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf) | [PDF](supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf) |
-
-La partie 2 des kits arrive le 23 octobre, avec les jeux de répétition et le lancement de l'omnibus et des audits.
 
 ## Le tirage du 9 octobre
 
