@@ -9,6 +9,7 @@ origine:
 - https://ad-c.github.io/mth101/supports/seance-02-03/mth101-seances-02-03-exercices-1-a-7-corriges.pdf
 - https://ad-c.github.io/mth101/projet.html
 - https://ad-c.github.io/mth101/supports/projet/mth101-synthese-missions.pdf
+- https://ad-c.github.io/mth101/supports/projet/mth101-guide-soutenance.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-feuille-de-route-jalon-1.pdf
 - https://ad-c.github.io/mth101/supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf
 - https://ad-c.github.io/mth101/supports/polycopie/mth101-carte-du-module.pdf
@@ -18,17 +19,22 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-kit-partie-1.pdf
+- https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-kit-partie-2.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-kit-partie-1.pdf
+- https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-kit-partie-2.pdf
+- https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-consigne-audit.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-kit-partie-1.pdf
+- https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-kit-partie-2.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
-depot-public: Ad-C/mth101, 5d175b1
-genere: '2026-10-23'
+- https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-2.pdf
+depot-public: Ad-C/mth101, 3bb937e
+genere: '2026-11-06'
 ---
 
 # Base de connaissances du tuteur de MTH101
@@ -38,13 +44,13 @@ Ce fichier rassemble les documents publiés pour les étudiants du cours MTH101
 date de génération. Il ne contient rien d’autre. Il a deux sortes de
 parties : la partie commune (le mode d’emploi du cours et ses mises à jour,
 puis le cours, son calendrier, ce qui a été vu, les exercices du 9 octobre et
-les corrigés des exercices 1 à 7, le projet, le jalon 1, les aides), puis une
-partie par mission, avec la commande du client, la note de cadrage et le kit,
-partie 1. Chaque document donne son adresse publique, à citer quand on y
-renvoie.
+les corrigés des exercices 1 à 7, le projet, la soutenance de démarche, le
+jalon 1, les aides), puis une partie par mission, avec la commande du client,
+la note de cadrage, le kit, partie 1, et le kit, partie 2. Chaque document
+donne son adresse publique, à citer quand on y renvoie.
 
 En cas de différence entre deux documents, le mode d’emploi fait foi ; les
-mises à jour du 23 octobre, qui le suivent, remplacent les dates et les
+mises à jour du 3 novembre, qui le suivent, remplacent les dates et les
 consignes des documents plus anciens.
 
 Ce qui n’y figure pas n’est pas connu : il se demande à l’intervenant.
@@ -57,7 +63,7 @@ Ce qui n’y figure pas n’est pas connu : il se demande à l’intervenant.
 
 Page : Brightspace, module « Commencer ici » : https://learn.ga.university/d2l/home/6803
 
-Mis à jour le vendredi 23 octobre 2026
+Mis à jour le jeudi 5 novembre 2026
 
 Tout part d’ici : ce module donne accès à tout le reste du cours. En cas de différence avec un autre document du cours, ce mode d’emploi fait foi.
 
@@ -66,8 +72,10 @@ Tout part d’ici : ce module donne accès à tout le reste du cours. En cas de 
 Trois choses, et seulement trois :
 
 - votre présence et votre participation : assiduité, contribution aux exercices en séance et aux points d’étape du projet, dont les commits de chacun sur GitHub ; les quiz Kahoot en séance comptent dans la participation ;
-- le projet en équipe : l’écrit et la soutenance du jeudi 12 novembre ;
+- le projet en équipe : la soutenance de démarche du jeudi 12 novembre et l’écrit final du vendredi 4 décembre ;
 - l’examen individuel écrit, le jeudi 28 janvier après-midi.
+
+Le respect des consignes et des échéances entre dans la note du projet, modulée selon l’investissement de chacun.
 
 ### 2. Le cours et les exercices, pour préparer l’examen
 
@@ -80,14 +88,19 @@ Trois choses, et seulement trois :
 
 Chaque équipe travaille dans son dépôt. Chacun commite depuis son propre compte, régulièrement : l’historique montre qui a fait quoi. La commande, la note de cadrage et le kit de votre mission sont sur la page Projet.
 
+Il n’y aura pas de jeu de répétition : il est remplacé par une enquête en ligne auprès de personnes au Royaume-Uni, dont les données vous seront remises vers le mardi 10 novembre.
+
 | Date | Ce qui est attendu |
 |----|----|
-| Dim. 25/10, 23 h 59 | Jalon 1, nouveau délai sans pénalité : protocole, question pour l’omnibus et benchmark, visibles sur github.com |
-| Ven. 6/11 après-midi, en autonomie | Jalon 2 : analyses, simulateur qui tourne, plan de la soutenance |
-| Mer. 11/11, 23 h 59 | Remise de l’écrit |
-| Jeu. 12/11 | Soutenance : 10 minutes d’exposé, 8 de questions |
+| Ven. 6/11, midi au plus tard | Les consignes par mission pour la suite du projet paraissent sur la page Projet |
+| Ven. 6/11 après-midi, à l’école, en autonomie | Séance de projet : point de séance commité avant 17 h 30 |
+| Ven. 6/11, 17 h 30 | Dernier délai pour le protocole (`projet/protocole/protocole.md`) et la question d’omnibus (`projet/protocole/omnibus.md`) |
+| Vers le mar. 10/11 | Remise des données de l’enquête |
+| Mer. 11/11, 23 h 59 | Support de la soutenance, dans `projet/soutenance/` |
+| Jeu. 12/11 | Soutenance de démarche : 10 minutes d’exposé, 8 de questions |
+| Ven. 4/12, 23 h 59 | Écrit final, de 4 à 6 pages, déposé sur Brightspace |
 
-La règle du jalon 1 ne change pas : le protocole est commité avant toute analyse.
+Le protocole est commité avant toute analyse. Une équipe qui n’a pas posé sa question d’omnibus le vendredi 6 novembre à 17 h 30 s’en voit attribuer une, et l’échéance manquée compte dans la note.
 
 ### 4. Si vous bloquez, dans cet ordre
 
@@ -97,23 +110,31 @@ La règle du jalon 1 ne change pas : le protocole est commité avant toute analy
 
 ### 5. L’usage de l’IA
 
-Elle est permise pour comprendre et vérifier, pas pour produire vos livrables. L’écrit se termine par une courte déclaration de votre usage de l’IA, et chacun doit savoir expliquer tout ce que l’équipe rend.
+Elle est permise pour comprendre et vérifier, pas pour produire vos livrables. L’écrit final se termine par une courte déclaration de votre usage de l’IA, et chacun doit savoir expliquer tout ce que l’équipe rend.
 
-## Mises à jour du 23 octobre
+## Mises à jour du 3 novembre
 
-Ce qui suit complète le mode d’emploi, qui fait foi, et remplace ce que disent encore des documents plus anciens de cette base.
+Ce qui suit reprend le mode d’emploi, qui fait foi, et remplace ce que disent encore des documents plus anciens de cette base.
 
-**Le calendrier du projet.**
+**Le calendrier du projet, mis à jour le 3 novembre.**
+
+Il n’y aura pas de jeu de répétition : il est remplacé par une enquête en ligne auprès de personnes au Royaume-Uni, dont les données vous seront remises vers le mardi 10 novembre.
 
 | Date | Ce qui est attendu |
 |---|---|
-| Dim. 25/10, 23 h 59 | Jalon 1, sans pénalité : protocole, question pour l’omnibus et benchmark, visibles sur github.com |
-| Lun. 26/10 | Vous recevez votre jeu de répétition |
-| Ven. 6/11, 23 h 59 | Jalon 2 : analyses, simulateur qui tourne, plan de la soutenance |
-| Mer. 11/11, 23 h 59 | Remise de l’écrit |
-| Jeu. 12/11 | Soutenance : 10 minutes d’exposé, 8 de questions |
+| Ven. 6/11, midi au plus tard | Les consignes par mission pour la suite du projet paraissent sur la page Projet |
+| Ven. 6/11 après-midi, à l’école, en autonomie | Séance de projet : point de séance commité avant 17 h 30 |
+| Ven. 6/11, 17 h 30 | Dernier délai pour le protocole (`projet/protocole/protocole.md`) et la question d’omnibus (`projet/protocole/omnibus.md`) |
+| Vers le mar. 10/11 | Remise des données de l’enquête |
+| Mer. 11/11, 23 h 59 | Support de la soutenance, dans `projet/soutenance/` |
+| Jeu. 12/11 | Soutenance de démarche : 10 minutes d’exposé, 8 de questions |
+| Ven. 4/12, 23 h 59 | Écrit final, de 4 à 6 pages, déposé sur Brightspace |
 
-Ces dates remplacent celles des documents plus anciens (page Projet, feuille de route du 15 octobre, commandes, notes de cadrage, kits, partie 1) : le jalon 1 du jeudi 15 octobre, le jeu de répétition et l’omnibus du vendredi 23 octobre, l’écrit du mardi 10 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.
+Le protocole est commité avant toute analyse. Une équipe qui n’a pas posé sa question d’omnibus le vendredi 6 novembre à 17 h 30 s’en voit attribuer une, et l’échéance manquée compte dans la note.
+
+Ces dates remplacent celles des documents plus anciens (page Projet, feuille de route du 15 octobre, commandes, notes de cadrage, kits, partie 1) et des mises à jour du 23 octobre : il n’y a plus de jeu de répétition, ni de jalon 2 le vendredi 6 novembre à 23 h 59, et l’écrit final se dépose le vendredi 4 décembre, non plus le mardi 10 ou le mercredi 11 novembre.
+
+**La partie 2 du projet est publiée** depuis le vendredi 6 novembre, sur la page Projet, section « Partie 2 · la suite du projet » : https://ad-c.github.io/mth101/projet.html. Le kit, partie 2, de chaque mission est dans la partie de cette mission, avec, pour « Recommandé par l’IA », la consigne de l’audit ; le guide commun de la soutenance de démarche est dans la partie commune.
 
 **Les exercices.** Les exercices ne se rendent plus et ne passent plus par GitHub : ils servent à s’entraîner, et GitHub ne sert qu’au projet. Les passages plus anciens qui disent de les terminer, de les copier ou de les pousser dans le dépôt de l’équipe, notebooks compris, ne valent plus.
 
@@ -125,7 +146,7 @@ Ces dates remplacent celles des documents plus anciens (page Projet, feuille de 
 
 Page : https://ad-c.github.io/mth101/
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
 
 Cours MTH101 du Bachelor IA, 1re année, de l’École 89, année 2026-2027. Intervenant : Adrien Chiodo.
 
@@ -194,7 +215,7 @@ Les exercices n’ont pas été faits en séance : ils ont été repris le 9 oct
 
 Page : https://ad-c.github.io/mth101/seances/seance-02-03.html
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
 
 *Mise à jour du 23 octobre : les exercices ne se rendent plus et ne passent plus par GitHub : ils servent à s’entraîner, et GitHub ne sert qu’au projet. Ce que ce document dit de leur place dans le dépôt de l’équipe ne vaut plus.*
 
@@ -593,9 +614,33 @@ Justifiez chaque réponse en une phrase.
 
 Page : https://ad-c.github.io/mth101/projet.html
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+**Calendrier mis à jour le 3/11 : le [mode d’emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.** Les consignes par mission pour la suite du projet sont publiées ci-dessous, dans « Partie 2 · la suite du projet ».
 
 Les quatre missions de l’agence, tirées au sort le 9 octobre. Pour chacune : la commande du client, la note de cadrage et le kit de mission. Les missions tirées sont définitives.
+
+### Partie 2 · la suite du projet
+
+Publiée le vendredi 6 novembre. Le kit, partie 2, de votre mission dit ce qui reste à faire, avec quelles données, et ce que vous montrerez le jeudi 12 novembre : lisez-le avant de reprendre le travail.
+
+| Mission | Kit, partie 2 | Pour cette mission |
+|----|----|----|
+| Les annulations | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-kit-partie-2.pdf) |  |
+| Recommandé par l’IA | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-kit-partie-2.pdf) | [La consigne de l’audit (PDF)](https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-consigne-audit.pdf), avec le script [`scripts/audit/ordre-hotels.py`](https://github.com/Ad-C/mth101/blob/main/scripts/audit/ordre-hotels.py) et le modèle de relevé [`scripts/audit/releve-audit.csv`](https://github.com/Ad-C/mth101/blob/main/scripts/audit/releve-audit.csv) |
+| Le temps d’attente | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-kit-partie-2.pdf) |  |
+| Les robots de service | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-2.pdf) |  |
+
+Pour les quatre missions :
+
+- [La soutenance de démarche, guide commun (PDF)](https://ad-c.github.io/mth101/supports/projet/mth101-guide-soutenance.pdf) : le jeudi 12 novembre, 10 minutes d’exposé et 8 de questions ; le support est dans `projet/soutenance/` le mercredi 11 novembre à 23 h 59.
+- Le squelette de simulateur, [`notebooks/squelette-simulateur.ipynb`](https://github.com/Ad-C/mth101/blob/main/notebooks/squelette-simulateur.ipynb), à partir duquel vous construisez le simulateur de votre mission. Dans le terminal de votre codespace, à la racine du dépôt de votre équipe :
+
+``` bash
+curl -fsSL -o projet/simulateur/squelette-simulateur.ipynb https://raw.githubusercontent.com/Ad-C/mth101/main/notebooks/squelette-simulateur.ipynb
+```
+
+Ouvrez ensuite `projet/simulateur/squelette-simulateur.ipynb`, puis **Exécuter tout**. Le script, le modèle de relevé et le squelette sont versés dans le domaine public ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)).
 
 ### Jeudi 15 octobre : jalon 1
 
@@ -624,8 +669,6 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 | Recommandé par l’IA | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-commande.pdf) | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-note-de-cadrage.pdf) | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-kit-partie-1.pdf) |
 | Le temps d’attente | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-commande.pdf) | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-note-de-cadrage.pdf) | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-kit-partie-1.pdf) |
 | Les robots de service | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf) | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf) | [PDF](https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf) |
-
-La partie 2 des kits arrive le 23 octobre, avec les jeux de répétition et le lancement de l’omnibus et des audits.
 
 ### Le tirage du 9 octobre
 
@@ -685,13 +728,46 @@ Attributions des données :
 - Hotel booking demand : N. Antonio, A. de Almeida, L. Nunes, « Hotel booking demand datasets », *Data in Brief*, 22 (2019), 41–49, doi:10.1016/j.dib.2018.11.126, licence CC BY 4.0.
 - Temps d’attente : Powered by [Queue-Times.com](https://queue-times.com/). Les parcs ne sont pas le client et ne sont associés ni au cours ni aux missions.
 
+## La soutenance de démarche · Guide commun
+
+*Jeudi 12 novembre : 10 minutes d’exposé, 8 de questions. Daté du jeudi 5 novembre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-guide-soutenance.pdf
+
+Le 12/11, chaque équipe présente sa démarche : la question du client, la façon d’y répondre, et où elle en est. Ce guide vaut pour les quatre missions ; le kit de votre mission, partie 2, dit ce qu’elle y montre en propre. L’écrit final, déposé sur Brightspace le vendredi 4 décembre à 23 h 59, vient ensuite.
+
+### 1. Six diapositives au plus
+
+| N° | La diapositive | Ce qu’elle dit |
+|----|----|----|
+| 1 | La question du client | Dans ses mots, et les décisions qu’elle engage |
+| 2 | Le protocole | Le test que vous proposez au client : métrique, tirage au sort, taille d’échantillon, durée, règle de décision |
+| 3 | Les données | D’où elles viennent, ce qu’elles couvrent, votre question d’enquête |
+| 4 | La méthode | Les estimations, le test de deux proportions, le simulateur : ce que chacun apportera au client |
+| 5 | Les premiers résultats, ou ce que vous en attendez | Un chiffre avec son intervalle, ou ce que vous calculerez, et pourquoi |
+| 6 | Ce que nous avons compris, et ce qui reste difficile | Ce que l’équipe sait dire maintenant, et la difficulté qu’elle n’a pas encore résolue |
+
+Chaque donnée citée porte sa source, et la mention que sa licence impose.
+
+### 2. Dix minutes, chacun sa partie
+
+- **Dix minutes d’exposé, huit de questions.** Répétez au moins une fois, chronomètre en main.
+- **Chaque membre présente une partie.** Les questions peuvent s’adresser à chacun, sur n’importe quelle partie : chacun doit savoir expliquer tout ce que l’équipe rend.
+
+### 3. Le support
+
+- **Où et quand.** Dans `projet/soutenance/`, commité et synchronisé au plus tard le mercredi 11 novembre à 23 h 59 : vérifiez sur github.com qu’il y est arrivé.
+- **L’usage de l’IA.** Elle est permise pour comprendre et vérifier, pas pour produire vos livrables : le support en est un.
+
+Le respect des consignes et des échéances entre dans la note du projet.
+
 ## Jeudi 15 octobre · Feuille de route
 
 *Une demi-journée en autonomie, jusqu’au jalon 1. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-feuille-de-route-jalon-1.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
 
 *Mise à jour du 23 octobre : Brightspace est ouvert, https://learn.ga.university/d2l/home/6803 ; tout part du module « Commencer ici ».*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 Une demi-journée en équipe, sans l’intervenant : un temps de cours, puis le jalon 1 de votre mission. Cette feuille vaut pour les quatre missions ; le kit de votre mission, partie 1, en donne le détail.
 
@@ -1104,7 +1180,7 @@ Page : https://ad-c.github.io/mth101/kit-tuteur.html
 
 Un assistant IA peut vous aider à comprendre une notion ou à vérifier un raisonnement, s’il joue le rôle d’un tuteur et non celui d’un sous-traitant. Cette page donne la consigne à lui confier, le fichier à lui joindre, et les règles de son usage dans le cours.
 
-*Mise à jour : 23 octobre 2026.*
+*Mise à jour : 6 novembre 2026.*
 
 ### La règle d’usage de l’IA
 
@@ -1120,7 +1196,7 @@ Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e
 
 ### La base de connaissances
 
-[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 23 octobre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
+[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 6 novembre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
 
 - Ajoutez-le aux fichiers de votre projet Claude, ou joignez-le à la conversation de votre assistant.
 - La consigne de cette page suffit.
@@ -1159,7 +1235,7 @@ Page : https://ad-c.github.io/mth101/faq.html
 
 Les questions posées sur GitHub et Codespaces, avec leur réponse. Les libellés sont ceux de VS Code en français ; ceux de github.com restent en anglais. Le guide GitHub distribué en séance reste la référence pour les premiers pas.
 
-*Mise à jour : 9 octobre 2026.*
+*Mise à jour : 5 novembre 2026.*
 
 **Une fois dans chaque nouveau codespace** : dans un terminal (menu ☰, **Terminal**, **Nouveau terminal**), tapez `git config --global pull.rebase false`. Sans ce réglage, la synchronisation échoue dès que vous et votre binôme avez commité chacun de votre côté (question 3).
 
@@ -1258,15 +1334,18 @@ Le `README.md` déjà présent vient du modèle : ce n’est pas votre protocole
 
 ### 10. Comment l’intervenant suit-il les dépôts ?
 
-Chaque semaine, et à chaque jalon, il lit l’historique de votre dépôt : les dates, les auteurs, les fichiers. Il regarde trois choses :
+Chaque semaine, et à chaque échéance, il lit votre dépôt tel qu’il est arrivé sur GitHub : l’historique (dates d’arrivée, auteurs, fichiers) et le contenu de ce que vous rendez. Il regarde quatre choses :
 
 - la régularité du travail ;
 - la présence de chaque membre ;
-- le respect des jalons, par exemple, au 15 octobre, un protocole commité avant toute analyse.
+- le respect des échéances, par exemple un protocole visible sur github.com à l’échéance, et commité avant toute analyse ;
+- ce qui est fait et ce qui manque, au regard des consignes de l’échéance et de votre note de cadrage.
 
-Le nombre de commits n’est pas une note : en multiplier de tout petits n’apporte rien. Si un membre n’apparaît plus depuis une semaine, l’intervenant pose la question à l’équipe : c’est une question, pas une sanction. Pour un travail à deux sur un seul écran, voir la question 8.
+Chaque équipe reçoit ensuite par e-mail un retour : ce qui est fait, ce qui manque, la prochaine étape. Pour le préparer, l’intervenant s’aide d’un outil d’IA (Claude Code, d’Anthropic), qui lit une copie de votre dépôt. Il vérifie lui-même votre dépôt, relit et complète chaque retour, puis vous l’envoie. Aucune note n’est attribuée automatiquement : c’est l’intervenant qui évalue. Le respect des consignes et des échéances entre dans la note du projet.
 
-Ses notes de suivi restent chez lui, hors de tout dépôt, et sont supprimées à la fin de la période d’évaluation.
+Le nombre de commits n’est pas une note : en multiplier de tout petits n’apporte rien. Si un membre n’apparaît plus depuis une semaine, l’intervenant lui pose directement la question : c’est une question, pas une sanction. Pour un travail à deux sur un seul écran, voir la question 8.
+
+Les copies de vos dépôts et ses notes de suivi restent chez lui, hors de tout dépôt, et sont supprimées à la fin de la période d’évaluation.
 
 Une question qui n’est pas ici ? Posez-la en séance : elle rejoindra cette page.
 
@@ -1289,6 +1368,16 @@ curl -fsSL -o exercices/seance-03-simulation-binomiale-poisson.ipynb https://raw
 Ouvrez ensuite `exercices/seance-03-simulation-binomiale-poisson.ipynb`, puis **Exécuter tout**. À la fin : commit et push.
 
 Si Codespaces ne répond pas : [ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/Ad-C/mth101/blob/main/notebooks/seance-03-simulation-binomiale-poisson.ipynb) (compte Google requis ; enregistrez une copie avant de le modifier).
+
+### Projet · Le squelette de simulateur
+
+Le point de départ commun du simulateur de votre mission, à copier dans le dossier `projet/simulateur/` du dépôt de votre équipe. Dans le terminal de votre codespace, à la racine de votre dépôt, collez :
+
+``` bash
+curl -fsSL -o projet/simulateur/squelette-simulateur.ipynb https://raw.githubusercontent.com/Ad-C/mth101/main/notebooks/squelette-simulateur.ipynb
+```
+
+Ouvrez ensuite `projet/simulateur/squelette-simulateur.ipynb`, puis **Exécuter tout**. Le kit, partie 2, de votre mission dit ce que le client doit pouvoir y faire varier : il est sur la [page Projet](https://ad-c.github.io/mth101/projet.html).
 
 ### Licence
 
@@ -1316,7 +1405,7 @@ Les notebooks de ce dossier sont versés dans le domaine public, [CC0 1.0](https
 
 *Le vrai coût d’une chambre vide. Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-commande.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
 
 Thème A, « Séjourner » : hôtels et restaurants. Commande transmise à l’agence par son associé.
 
@@ -1362,7 +1451,9 @@ Source : N. Antonio, A. de Almeida, L. Nunes, « Hotel booking demand datasets �
 
 *Le vrai coût d’une chambre vide. Daté du vendredi 9 octobre 2026, mise à jour le 13 octobre.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-note-de-cadrage.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 De l’associé de l’agence à l’équipe chargée de la mission. La commande dit ce que veut le client ; cette note, ce que l’agence attend de vous et comment vous y prendre. Gardez les deux sous la main.
 
@@ -1469,7 +1560,9 @@ Une équipe de trois vise au moins un élément du niveau « excellent ».
 
 *Préparer le jalon 1 : protocole, omnibus, benchmark, données. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-kit-partie-1.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 Le kit donne les outils de la mission ; la commande et la note de cadrage restent les références. Cette première partie prépare le jalon 1 du jeudi 15/10. La seconde arrivera le 23/10, avec votre jeu de répétition et le lancement de l’omnibus.
 
@@ -1542,6 +1635,55 @@ Votre question d’omnibus vous apportera d’autres réponses, après la collec
 
 **Avant le protocole, aucune analyse.** Rien n’entre dans `projet/analyses/` avant que le protocole soit commité et synchronisé (règle du jalon 1, note de cadrage, section 7).
 
+## Les annulations · Kit, partie 2
+
+*La suite du projet : données, analyses, écrit, soutenance. Daté du jeudi 5 novembre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a1-annulations-kit-partie-2.pdf
+
+La commande et la note de cadrage restent les références ; le calendrier est celui du mode d’emploi sur Brightspace, qui fait foi. Cette partie dit ce qui reste à faire, avec quelles données, et ce que vous montrerez le 12/11.
+
+### 1. La question du client
+
+> « Une part importante de nos réservations est annulée. Faut-il imposer un acompte non remboursable, et combien de chambres pouvons-nous survendre ? »
+
+Deux décisions, l’acompte et la survente : votre écrit et votre soutenance répondent aux deux, et disent d’où viennent les chiffres.
+
+### 2. Les données
+
+**Hotel booking demand.** Les réservations réelles de deux hôtels portugais, décrites dans la commande. Si ce n’est pas déjà fait, l’archive se télécharge dans le terminal du codespace, à la racine du dépôt :
+
+``` bash
+curl -fsSL -o projet/donnees/hotel-booking-demand.zip \
+  https://ars.els-cdn.com/content/image/1-s2.0-S2352340918315191-mmc2.zip
+```
+
+La lecture des deux fichiers, `H1.csv` et `H2.csv`, est dans la partie 1 du kit, section 4. Licence CC BY 4.0 : tout rendu qui utilise ces données cite l’article de N. Antonio, A. de Almeida et L. Nunes (*Data in Brief*, 2019).
+
+**L’enquête.** Il n’y aura pas de jeu de répétition : il est remplacé par une enquête en ligne auprès de personnes au Royaume-Uni, dont les données vous seront remises vers le mardi 10 novembre. Elle porte votre question d’omnibus, dans ses deux versions tirées au sort. Le format et le canal de remise vous seront précisés à la remise. Rangez les réponses dans `projet/donnees/`, avec leur provenance dans le README du dossier.
+
+### 3. Les analyses de l’écrit
+
+Le socle, ce qu’il faut pour valider :
+
+1.  **Des estimations, chacune avec son intervalle de confiance à 95 %** (polycopié, chapitre 5, section 2.2). D’abord les taux d’annulation tardive qui nourrissent votre simulateur, estimés par segment de clientèle comme le demande la commande : définissez ce que vous appelez une annulation tardive avant de la compter.
+2.  **Le test de deux proportions sur votre question d’enquête** (chapitre 5, section 2.4) : la même réponse, comptée dans chaque version ; les deux fréquences, leur différence et son intervalle de confiance, la statistique z, la p-valeur, au seuil fixé avant de regarder les données ; puis ce que la comparaison apprend au client.
+3.  **Le simulateur**, dans `projet/simulateur/`, à partir du squelette commun (page Projet). Le client doit pouvoir y faire varier le nombre de chambres, le nombre de réservations acceptées, le taux d’annulation tardive, le coût d’un client à reloger et celui d’une chambre vide. Il donne au moins la probabilité de devoir reloger au moins un client.
+
+**L’écrit final** : quatre à six pages, selon la grille commune de l’agence (question, données, effet estimé, intervalle de confiance, test, importance pratique, limites, recommandation, condition de réexamen ; polycopié, chapitre 6, section 2.7), et une courte déclaration de votre usage de l’IA. Il se dépose sur Brightspace le vendredi 4 décembre à 23 h 59.
+
+### 4. La soutenance de démarche du 12/11
+
+Dix minutes d’exposé, huit de questions, selon le guide commun de la soutenance (page Projet) : la question du client, votre protocole, vos données, votre méthode, vos premiers résultats ou ce que vous en attendez, ce que vous avez compris et ce qui reste difficile. Pour votre mission, montrez le simulateur tel qu’il tourne ce jour-là, et dites d’où viennent les taux que vous y avez mis.
+
+| Date | Ce qui est attendu |
+|----|----|
+| Ven. 6/11, 17 h 30 | Dernier délai pour le protocole et la question d’omnibus |
+| Vers le mar. 10/11 | Remise des données de l’enquête |
+| Mer. 11/11, 23 h 59 | Support de la soutenance, dans `projet/soutenance/` |
+| Jeu. 12/11 | Soutenance de démarche : 10 minutes d’exposé, 8 de questions |
+| Ven. 4/12, 23 h 59 | Écrit final, de 4 à 6 pages, déposé sur Brightspace |
+
+Le respect des consignes et des échéances entre dans la note du projet.
+
 <!-- partie: a2-recommandation-ia -->
 
 # Mission « Recommandé par l’IA »
@@ -1550,7 +1692,7 @@ Votre question d’omnibus vous apportera d’autres réponses, après la collec
 
 *Quel hôtel l’IA recommande-t-elle ? Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-commande.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
 
 Thème A, « Séjourner » : hôtels et restaurants. Commande transmise à l’agence par son associé.
 
@@ -1597,7 +1739,9 @@ Des données que vous produirez vous-mêmes, par un audit. Au moins 200 requête
 
 *Quel hôtel l’IA recommande-t-elle ? Daté du vendredi 9 octobre 2026, mise à jour le 13 octobre.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-note-de-cadrage.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 De l’associé de l’agence à l’équipe chargée de la mission. La commande dit ce que veut le client ; cette note, ce que l’agence attend de vous et comment vous y prendre. Gardez les deux sous la main.
 
@@ -1703,7 +1847,9 @@ Une équipe de trois vise au moins un élément du niveau « excellent ».
 
 *Préparer le jalon 1 : protocole, omnibus, benchmark, données. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-kit-partie-1.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 Le kit donne les outils de la mission ; la commande et la note de cadrage restent les références. Cette première partie prépare le jalon 1 du jeudi 15/10. La seconde arrivera le 23/10, avec votre jeu de répétition et le lancement de l’audit et de l’omnibus.
 
@@ -1768,6 +1914,128 @@ Les réponses collectées sont les données de l’équipe : conservez-les dans 
 
 **Avant le protocole, aucune analyse.** Rien n’entre dans `projet/analyses/` avant que le protocole soit commité et synchronisé (règle du jalon 1, note de cadrage, section 7).
 
+## Recommandé par l’IA · Kit, partie 2
+
+*La suite du projet : données, analyses, écrit, soutenance. Daté du jeudi 5 novembre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-kit-partie-2.pdf
+
+La commande et la note de cadrage restent les références ; le calendrier est celui du mode d’emploi sur Brightspace, qui fait foi. Cette partie dit ce qui reste à faire, avec quelles données, et ce que vous montrerez le 12/11.
+
+### 1. La question du client
+
+> « Nos clients demandent de plus en plus conseil à des assistants IA. Qu’est-ce qui les pousse à recommander notre hôtel ? »
+
+Votre écrit et votre soutenance y répondent, et disent d’où viennent les chiffres.
+
+### 2. Les données
+
+**Votre audit.** Il se fait à la main, sur un assistant IA, selon la consigne de l’audit publiée avec ce kit : 100 à 150 requêtes pour l’équipe de trois, l’ordre des cinq hôtels tiré au sort à chaque requête. Le plan d’audit est commité dans `projet/protocole/plan-audit.md` avant la première requête. Chaque réponse entre dans le relevé, `projet/donnees/releve-audit.csv` : ce sont les données de l’équipe, et les conditions d’utilisation de l’assistant s’appliquent.
+
+**L’enquête.** Il n’y aura pas de jeu de répétition : il est remplacé par une enquête en ligne auprès de personnes au Royaume-Uni, dont les données vous seront remises vers le mardi 10 novembre. Elle porte votre question d’omnibus, dans ses deux versions tirées au sort. Le format et le canal de remise vous seront précisés à la remise. Rangez les réponses dans `projet/donnees/`, avec leur provenance dans le README du dossier.
+
+### 3. Les analyses de l’écrit
+
+Le socle, ce qu’il faut pour valider :
+
+1.  **Des estimations, chacune avec son intervalle de confiance à 95 %** (polycopié, chapitre 5, section 2.2) : pour chacun des cinq hôtels, la part des requêtes où il est recommandé, selon la définition écrite dans votre plan d’audit ; et, comme le demande la commande, l’effet de sa position dans la liste soumise à l’assistant.
+2.  **Le test de deux proportions sur votre question d’enquête** (chapitre 5, section 2.4) : la même réponse, comptée dans chaque version ; les deux fréquences, leur différence et son intervalle de confiance, la statistique z, la p-valeur, au seuil fixé avant de regarder les données ; puis ce que la comparaison apprend au client.
+3.  **Le simulateur**, dans `projet/simulateur/`, à partir du squelette commun (page Projet) : un simulateur de part de recommandations. Le client doit pouvoir y faire varier la probabilité que son hôtel soit recommandé, selon sa place dans la liste, et le nombre de voyageurs qui demandent conseil ; il lit combien de ces voyageurs se voient proposer son hôtel.
+
+**L’écrit final** : quatre à six pages, selon la grille commune de l’agence (question, données, effet estimé, intervalle de confiance, test, importance pratique, limites, recommandation, condition de réexamen ; polycopié, chapitre 6, section 2.7), et une courte déclaration de votre usage de l’IA. Il se dépose sur Brightspace le vendredi 4 décembre à 23 h 59.
+
+### 4. La soutenance de démarche du 12/11
+
+Dix minutes d’exposé, huit de questions, selon le guide commun de la soutenance (page Projet) : la question du client, votre protocole, vos données, votre méthode, vos premiers résultats ou ce que vous en attendez, ce que vous avez compris et ce qui reste difficile. Pour votre mission, montrez votre plan d’audit et le nombre de requêtes relevées ce jour-là.
+
+| Date | Ce qui est attendu |
+|----|----|
+| Ven. 6/11, 17 h 30 | Dernier délai pour le protocole et la question d’omnibus |
+| Vers le mar. 10/11 | Remise des données de l’enquête |
+| Mer. 11/11, 23 h 59 | Support de la soutenance, dans `projet/soutenance/` |
+| Jeu. 12/11 | Soutenance de démarche : 10 minutes d’exposé, 8 de questions |
+| Ven. 4/12, 23 h 59 | Écrit final, de 4 à 6 pages, déposé sur Brightspace |
+
+Le respect des consignes et des échéances entre dans la note du projet.
+
+## Recommandé par l’IA · La consigne de l’audit
+
+*L’audit à la main, pas à pas. Daté du jeudi 5 novembre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-a2-recommandation-ia-consigne-audit.pdf
+
+L’audit produit vos données : 100 à 150 requêtes pour l’équipe de trois, faites à la main sur un assistant IA, l’ordre des cinq hôtels tiré au sort à chaque requête. Il remplace l’interrogation par programme qu’annonçait la commande. Suivez les quatre étapes dans l’ordre.
+
+### 1. Le plan d’audit, avant la première requête
+
+Il se commite dans `projet/protocole/plan-audit.md`, et se synchronise avant la première requête : sur github.com, il précède la première ligne du relevé.
+
+**L’assistant.** Choisissez un assistant d’IA gratuit, couramment utilisé par les voyageurs, et justifiez ce choix dans votre plan d’audit. Notez son nom et, s’il l’affiche, la version du modèle. Gardez le même assistant pour toutes les requêtes.
+
+Six rubriques :
+
+1.  **La demande soumise.** Le texte exact, celui qu’un voyageur pourrait écrire, et ce qui y est fixé. Aucune donnée personnelle, ni dans la demande ni dans la conversation.
+2.  **Les cinq hôtels.** Un nom fictif pour chacun, et les caractéristiques que l’assistant lira, fixées d’avance.
+3.  **Le tirage de l’ordre.** Le script de l’étape 2, et la graine de l’équipe : un nombre choisi une fois, écrit ici.
+4.  **Ce qui compte comme une recommandation.** Être cité en premier, seul, ou parmi d’autres : une définition, écrite avant la première requête.
+5.  **Le nombre de requêtes.** 100 à 150 pour l’équipe, et leur répartition entre les trois membres, par numéros de requête.
+6.  **L’assistant et ce que vous conservez.** L’assistant choisi, la raison de ce choix, la version de son modèle s’il l’affiche ; toutes les réponses, en entier, dans le relevé de l’étape 4.
+
+### 2. Le script de l’ordre
+
+Dans le terminal du codespace, à la racine du dépôt :
+
+``` bash
+D=https://raw.githubusercontent.com/Ad-C/mth101/main/scripts/audit
+curl -fsSL -o projet/protocole/ordre-hotels.py $D/ordre-hotels.py
+```
+
+Ouvrez `projet/protocole/ordre-hotels.py` et remplacez les cinq noms de la liste `HOTELS` par ceux de votre plan d’audit ; commitez-le avec le plan. Puis, pour la requête n° 17 et la graine 4821, et pour les requêtes 1 à 150 :
+
+``` bash
+python3 projet/protocole/ordre-hotels.py --graine 4821 --requete 17
+python3 projet/protocole/ordre-hotels.py --graine 4821 --toutes 150
+```
+
+La première affiche les cinq hôtels dans l’ordre tiré, la seconde les ordres des requêtes 1 à 150, un par ligne. La même graine et le même numéro donnent toujours le même ordre : n’importe qui peut le vérifier.
+
+### 3. Les règles de chaque requête
+
+1.  **Le mode sans historique de l’assistant**, conversation temporaire ou privée ; à défaut, une nouvelle conversation à chaque requête, la mémoire de l’assistant désactivée dans ses réglages.
+2.  **La même formulation** : la demande du plan d’audit, copiée telle quelle, avec les hôtels dans l’ordre que donne le script pour ce numéro.
+3.  **Un usage manuel, conforme aux conditions d’utilisation de l’assistant** : une personne colle chaque requête et copie chaque réponse ; aucun programme ne l’interroge à votre place.
+4.  **La recherche web, notée** : le relevé dit si la réponse s’appuie sur une recherche web.
+5.  **100 à 150 requêtes à trois**, chacun les numéros que le plan lui attribue.
+
+### 4. Le relevé
+
+Une ligne par requête, notée juste après elle. Le plus sûr : la commande `--noter` du script, avec le numéro de la requête.
+
+``` bash
+python3 projet/protocole/ordre-hotels.py --graine 4821 --noter 17
+```
+
+Elle demande l’assistant, la réponse complète (collez-la, puis tapez `FIN` seul sur une ligne), l’hôtel recommandé, le recours à une recherche web et vos remarques. Elle ajoute la date, l’heure de Paris et l’ordre présenté, refuse un numéro déjà noté, et crée le relevé, `projet/donnees/releve-audit.csv`, s’il n’existe pas. Ses neuf colonnes :
+
+| Colonne | Ce qu’elle contient |
+|----|----|
+| `numero` | Le numéro de la requête, celui donné au script |
+| `date` | La date de la requête, AAAA-MM-JJ |
+| `heure` | L’heure de Paris, HH:MM |
+| `assistant` | Le nom de l’assistant, et sa version ou son mode s’il les affiche |
+| `ordre_presente` | L’ordre dans lequel les hôtels ont été présentés |
+| `reponse_complete` | La réponse entière, copiée |
+| `hotel_recommande` | L’hôtel recommandé, selon la définition du plan d’audit |
+| `recherche_web` | `oui` si la réponse s’appuie sur une recherche web, sinon `non` |
+| `remarques` | Ce qui s’est passé d’inhabituel, ou rien |
+
+Pour remplir le relevé à la main, le modèle se télécharge :
+
+``` bash
+D=https://raw.githubusercontent.com/Ad-C/mth101/main/scripts/audit
+curl -fsSL -o projet/donnees/releve-audit.csv $D/releve-audit.csv
+```
+
+Une réponse contient alors des virgules et des retours à la ligne : entourez-la de guillemets droits `"…"`, et doublez chaque guillemet droit qu’elle contient. Dans les deux cas, pour vérifier le fichier, dans un notebook de `projet/analyses/` : `pd.read_csv("../donnees/releve-audit.csv")` doit donner autant de lignes que de requêtes faites. Commitez le relevé à la fin de chaque séance de requêtes.
+
+Les analyses à en tirer sont dans la partie 2 du kit, section 3.
+
 <!-- partie: c1-temps-attente -->
 
 # Mission « Le temps d’attente »
@@ -1776,7 +2044,7 @@ Les réponses collectées sont les données de l’équipe : conservez-les dans 
 
 *Combien de temps allez-vous attendre ? Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-commande.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
 
 Thème C, « Une journée de loisirs » : grands sites de loisirs et de patrimoine. Commande transmise à l’agence par son associé.
 
@@ -1825,7 +2093,9 @@ Des relevés réels des temps d’attente affichés dans deux parcs : Disneyland
 
 *Combien de temps allez-vous attendre ? Daté du vendredi 9 octobre 2026, mise à jour le 13 octobre.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-note-de-cadrage.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 De l’associé de l’agence à l’équipe chargée de la mission. La commande dit ce que veut le client ; cette note, ce que l’agence attend de vous et comment vous y prendre. Gardez les deux sous la main.
 
@@ -1932,7 +2202,9 @@ Une équipe de trois vise au moins un élément du niveau « excellent ».
 
 *Préparer le jalon 1 : protocole, omnibus, benchmark, données. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-kit-partie-1.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 Le kit donne les outils de la mission ; la commande et la note de cadrage restent les références. Cette première partie prépare le jalon 1 du jeudi 15/10. La seconde arrivera le 23/10, avec votre jeu de répétition et le lancement de l’omnibus.
 
@@ -1997,6 +2269,59 @@ Votre question d’omnibus vous apportera d’autres réponses, après la collec
 
 **Avant le protocole, aucune analyse.** Rien n’entre dans `projet/analyses/` avant que le protocole soit commité et synchronisé (règle du jalon 1, note de cadrage, section 7).
 
+## Le temps d’attente · Kit, partie 2
+
+*La suite du projet : données, analyses, écrit, soutenance. Daté du jeudi 5 novembre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c1-temps-attente-kit-partie-2.pdf
+
+La commande et la note de cadrage restent les références ; le calendrier est celui du mode d’emploi sur Brightspace, qui fait foi. Cette partie dit ce qui reste à faire, avec quelles données, et ce que vous montrerez le 12/11.
+
+### 1. La question du client
+
+> « Quel temps d’attente afficher, et quel jour conseiller à nos visiteurs ? »
+
+Deux questions, le temps à afficher et le jour à conseiller : votre écrit et votre soutenance répondent aux deux, et disent d’où viennent les chiffres.
+
+### 2. Les données
+
+**Les relevés des parcs.** Un fichier CSV par jour dans le dépôt public du cours, dossier `donnees/queue-times`, jusqu’au 12/11 ; le README du dossier décrit les colonnes : lisez-le d’abord. Pour lire plusieurs jours dans un notebook de `projet/analyses/` :
+
+``` python
+import pandas as pd
+
+base = ("https://raw.githubusercontent.com/"
+        "Ad-C/mth101/main/donnees/queue-times/")
+jours = pd.date_range("2026-10-05", "2026-11-05").strftime("%Y-%m-%d")
+releves = pd.concat(pd.read_csv(base + j + ".csv") for j in jours)
+```
+
+Changez la dernière date pour lire les jours suivants. **Powered by [Queue-Times.com](https://queue-times.com/)** : tout rendu qui utilise ces données porte cette mention, avec un lien.
+
+**L’enquête.** Il n’y aura pas de jeu de répétition : il est remplacé par une enquête en ligne auprès de personnes au Royaume-Uni, dont les données vous seront remises vers le mardi 10 novembre. Elle porte votre question d’omnibus, dans ses deux versions tirées au sort. Le format et le canal de remise vous seront précisés à la remise. Rangez les réponses dans `projet/donnees/`, avec leur provenance dans le README du dossier.
+
+### 3. Les analyses de l’écrit
+
+Le socle, ce qu’il faut pour valider :
+
+1.  **Des estimations, chacune avec son intervalle de confiance à 95 %** (polycopié, chapitre 5, section 2.2) : la probabilité d’attendre plus de 60 minutes, que demande la commande, pour les jours et les heures que vous comparez.
+2.  **Le test de deux proportions sur votre question d’enquête** (chapitre 5, section 2.4) : la même réponse, comptée dans chaque version ; les deux fréquences, leur différence et son intervalle de confiance, la statistique z, la p-valeur, au seuil fixé avant de regarder les données ; puis ce que la comparaison apprend au client.
+3.  **Le simulateur**, dans `projet/simulateur/`, à partir du squelette commun (page Projet) : un simulateur de file d’attente. Le client doit pouvoir y choisir l’affluence, le nombre de visiteurs qui arrivent par heure, et lire l’attente qui en résulte. D’autres paramètres sont possibles, par exemple la capacité de l’attraction, le nombre de visiteurs qu’elle accueille par heure.
+
+**L’écrit final** : quatre à six pages, selon la grille commune de l’agence (question, données, effet estimé, intervalle de confiance, test, importance pratique, limites, recommandation, condition de réexamen ; polycopié, chapitre 6, section 2.7), et une courte déclaration de votre usage de l’IA. Il se dépose sur Brightspace le vendredi 4 décembre à 23 h 59.
+
+### 4. La soutenance de démarche du 12/11
+
+Dix minutes d’exposé, huit de questions, selon le guide commun de la soutenance (page Projet) : la question du client, votre protocole, vos données, votre méthode, vos premiers résultats ou ce que vous en attendez, ce que vous avez compris et ce qui reste difficile. Pour votre mission, montrez le simulateur tel qu’il tourne ce jour-là.
+
+| Date | Ce qui est attendu |
+|----|----|
+| Ven. 6/11, 17 h 30 | Dernier délai pour le protocole et la question d’omnibus |
+| Vers le mar. 10/11 | Remise des données de l’enquête |
+| Mer. 11/11, 23 h 59 | Support de la soutenance, dans `projet/soutenance/` |
+| Jeu. 12/11 | Soutenance de démarche : 10 minutes d’exposé, 8 de questions |
+| Ven. 4/12, 23 h 59 | Écrit final, de 4 à 6 pages, déposé sur Brightspace |
+
+Le respect des consignes et des échéances entre dans la note du projet.
+
 <!-- partie: c2-robots-de-service -->
 
 # Mission « Les robots de service »
@@ -2005,7 +2330,7 @@ Votre question d’omnibus vous apportera d’autres réponses, après la collec
 
 *Robots et IA au service des visiteurs. Daté du vendredi 9 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-commande.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
 
 Thème C, « Une journée de loisirs » : grands sites de loisirs et de patrimoine. Commande transmise à l’agence par son associé.
 
@@ -2051,7 +2376,9 @@ La direction de la restauration d’un grand site de loisirs (client fictif). El
 
 *Robots et IA au service des visiteurs. Daté du vendredi 9 octobre 2026, mise à jour le 13 octobre.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 De l’associé de l’agence à l’équipe chargée de la mission. La commande dit ce que veut le client ; cette note, ce que l’agence attend de vous et comment vous y prendre. Gardez les deux sous la main.
 
@@ -2158,7 +2485,9 @@ Une équipe de trois vise au moins un élément du niveau « excellent ».
 
 *Préparer le jalon 1 : protocole, omnibus, benchmark, données. Daté du mardi 13 octobre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
 
-*Mise à jour du 23 octobre : les échéances du projet que donne encore ce document (jalon 1, jeu de répétition, omnibus, écrit) sont remplacées par le calendrier des mises à jour, en tête de la base : jalon 1 le dimanche 25 octobre à 23 h 59, sans pénalité ; jeu de répétition le lundi 26 octobre ; jalon 2 le vendredi 6 novembre à 23 h 59 ; écrit le mercredi 11 novembre à 23 h 59 ; soutenance le jeudi 12 novembre. La date du lancement de l’omnibus et des audits n’est pas encore annoncée : elle se demande à l’intervenant.*
+*Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
+
+Calendrier mis à jour le 3/11 : le mode d’emploi sur Brightspace fait foi
 
 Le kit donne les outils de la mission ; la commande et la note de cadrage restent les références. Cette première partie prépare le jalon 1 du jeudi 15/10. La seconde arrivera le 23/10, avec votre jeu de répétition et le lancement de l’omnibus.
 
@@ -2207,3 +2536,45 @@ Des références sûres, pour commencer. Votre benchmark les complète par vos p
 **Les études publiées sur l’acceptation des robots de service**, à commencer par Wirtz et al. (section 3), sous licence CC BY 4.0 ; chaque étude se cite en entier, avec son DOI. Les coûts d’un robot se documentent dans le benchmark, sources citées.
 
 **Avant le protocole, aucune analyse.** Rien n’entre dans `projet/analyses/` avant que le protocole soit commité et synchronisé (règle du jalon 1, note de cadrage, section 7).
+
+## Les robots de service · Kit, partie 2
+
+*La suite du projet : données, analyses, écrit, soutenance. Daté du jeudi 5 novembre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-2.pdf
+
+La commande et la note de cadrage restent les références ; le calendrier est celui du mode d’emploi sur Brightspace, qui fait foi. Cette partie dit ce qui reste à faire, avec quelles données, et ce que vous montrerez le 12/11.
+
+### 1. La question du client
+
+> « Un robot de service dans nos points de restauration : gadget, économie ou aide au personnel ? Et comment l’annoncer à nos visiteurs ? »
+
+Deux questions, le déploiement et la façon de l’annoncer : votre écrit et votre soutenance répondent aux deux, et disent d’où viennent les chiffres.
+
+### 2. Les données
+
+**Votre benchmark.** Les études publiées sur l’acceptation des robots de service, à commencer par celle de Wirtz et al. citée dans la commande, et les coûts d’un robot, chaque fois avec la source complète. Les taux d’acceptation qui nourrissent votre simulateur viennent de ces études publiées : notez pour chacun qui l’a mesuré, quand, et sur quelles données.
+
+**L’enquête.** Il n’y aura pas de jeu de répétition : il est remplacé par une enquête en ligne auprès de personnes au Royaume-Uni, dont les données vous seront remises vers le mardi 10 novembre. Elle porte votre question d’omnibus, dans ses deux versions tirées au sort. Le format et le canal de remise vous seront précisés à la remise. Rangez les réponses dans `projet/donnees/`, avec leur provenance dans le README du dossier.
+
+### 3. Les analyses de l’écrit
+
+Le socle, ce qu’il faut pour valider :
+
+1.  **Des estimations, chacune avec son intervalle de confiance à 95 %** (polycopié, chapitre 5, section 2.2) : la proportion de chaque réponse à votre question d’enquête, dans chacune des deux versions ; et, quand une étude publiée donne un taux et le nombre de personnes interrogées, son intervalle.
+2.  **Le test de deux proportions sur votre question d’enquête** (chapitre 5, section 2.4) : la même réponse, comptée dans chaque version ; les deux fréquences, leur différence et son intervalle de confiance, la statistique z, la p-valeur, au seuil fixé avant de regarder les données ; puis ce que la comparaison apprend au client.
+3.  **Le simulateur**, dans `projet/simulateur/`, à partir du squelette commun (page Projet) : un simulateur de la décision de déploiement. Le client doit pouvoir y faire varier le coût du robot et le taux d’acceptation des visiteurs, avec son intervalle de confiance ; il lit si le déploiement vaut la dépense. D’autres paramètres sont possibles, par exemple ce que le robot rapporte ou fait économiser.
+
+**L’écrit final** : quatre à six pages, selon la grille commune de l’agence (question, données, effet estimé, intervalle de confiance, test, importance pratique, limites, recommandation, condition de réexamen ; polycopié, chapitre 6, section 2.7), et une courte déclaration de votre usage de l’IA. Il se dépose sur Brightspace le vendredi 4 décembre à 23 h 59.
+
+### 4. La soutenance de démarche du 12/11
+
+Dix minutes d’exposé, huit de questions, selon le guide commun de la soutenance (page Projet) : la question du client, votre protocole, vos données, votre méthode, vos premiers résultats ou ce que vous en attendez, ce que vous avez compris et ce qui reste difficile. Pour votre mission, montrez le simulateur tel qu’il tourne ce jour-là, et les sources de ses coûts et de ses taux.
+
+| Date | Ce qui est attendu |
+|----|----|
+| Ven. 6/11, 17 h 30 | Dernier délai pour le protocole et la question d’omnibus |
+| Vers le mar. 10/11 | Remise des données de l’enquête |
+| Mer. 11/11, 23 h 59 | Support de la soutenance, dans `projet/soutenance/` |
+| Jeu. 12/11 | Soutenance de démarche : 10 minutes d’exposé, 8 de questions |
+| Ven. 4/12, 23 h 59 | Écrit final, de 4 à 6 pages, déposé sur Brightspace |
+
+Le respect des consignes et des échéances entre dans la note du projet.
