@@ -4,9 +4,31 @@ title: Projet
 
 [Accueil](./) · [Séances](seances.html) · **Projet** · [Kit tuteur](kit-tuteur.html) · [FAQ GitHub](faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
-**Calendrier mis à jour le 3/11 : le [mode d'emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.** Les consignes par mission pour la suite du projet paraîtront sur cette page le vendredi 6 novembre à midi au plus tard.
+**Calendrier mis à jour le 3/11 : le [mode d'emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.** Les consignes par mission pour la suite du projet sont publiées ci-dessous, dans « Partie 2 · la suite du projet ».
 
 Les quatre missions de l'agence, tirées au sort le 9 octobre. Pour chacune : la commande du client, la note de cadrage et le kit de mission. Les missions tirées sont définitives.
+
+## Partie 2 · la suite du projet
+
+Publiée le vendredi 6 novembre. Le kit, partie 2, de votre mission dit ce qui reste à faire, avec quelles données, et ce que vous montrerez le jeudi 12 novembre : lisez-le avant de reprendre le travail.
+
+| Mission | Kit, partie 2 | Pour cette mission |
+|---|---|---|
+| Les annulations | [PDF](supports/projet/mth101-a1-annulations-kit-partie-2.pdf) | |
+| Recommandé par l'IA | [PDF](supports/projet/mth101-a2-recommandation-ia-kit-partie-2.pdf) | [La consigne de l'audit (PDF)](supports/projet/mth101-a2-recommandation-ia-consigne-audit.pdf), avec le script [`scripts/audit/ordre-hotels.py`](https://github.com/Ad-C/mth101/blob/main/scripts/audit/ordre-hotels.py) et le modèle de relevé [`scripts/audit/releve-audit.csv`](https://github.com/Ad-C/mth101/blob/main/scripts/audit/releve-audit.csv) |
+| Le temps d'attente | [PDF](supports/projet/mth101-c1-temps-attente-kit-partie-2.pdf) | |
+| Les robots de service | [PDF](supports/projet/mth101-c2-robots-de-service-kit-partie-2.pdf) | |
+
+Pour les quatre missions :
+
+- [La soutenance de démarche, guide commun (PDF)](supports/projet/mth101-guide-soutenance.pdf) : le jeudi 12 novembre, 10 minutes d'exposé et 8 de questions ; le support est dans `projet/soutenance/` le mercredi 11 novembre à 23 h 59.
+- Le squelette de simulateur, [`notebooks/squelette-simulateur.ipynb`](https://github.com/Ad-C/mth101/blob/main/notebooks/squelette-simulateur.ipynb), à partir duquel vous construisez le simulateur de votre mission. Dans le terminal de votre codespace, à la racine du dépôt de votre équipe :
+
+```bash
+curl -fsSL -o projet/simulateur/squelette-simulateur.ipynb https://raw.githubusercontent.com/Ad-C/mth101/main/notebooks/squelette-simulateur.ipynb
+```
+
+Ouvrez ensuite `projet/simulateur/squelette-simulateur.ipynb`, puis **Exécuter tout**. Le script, le modèle de relevé et le squelette sont versés dans le domaine public ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)).
 
 ## Jeudi 15 octobre : jalon 1
 
