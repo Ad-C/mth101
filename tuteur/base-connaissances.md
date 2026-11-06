@@ -33,7 +33,7 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-2.pdf
-depot-public: Ad-C/mth101, 3bb937e
+depot-public: Ad-C/mth101, e070674
 genere: '2026-11-06'
 ---
 
@@ -129,6 +129,8 @@ Il n’y aura pas de jeu de répétition : il est remplacé par une enquête en 
 | Mer. 11/11, 23 h 59 | Support de la soutenance, dans `projet/soutenance/` |
 | Jeu. 12/11 | Soutenance de démarche : 10 minutes d’exposé, 8 de questions |
 | Ven. 4/12, 23 h 59 | Écrit final, de 4 à 6 pages, déposé sur Brightspace |
+
+En dehors des copies demandées en séance, les exercices du polycopié ne se rendent pas. Le vendredi 6/11, la copie des exercices b (les jumeaux) se rend sur papier à 17 h, à la personne qui encadre la séance ; elle compte dans la participation.
 
 Le protocole est commité avant toute analyse. Une équipe qui n’a pas posé sa question d’omnibus le vendredi 6 novembre à 17 h 30 s’en voit attribuer une, et l’échéance manquée compte dans la note.
 
