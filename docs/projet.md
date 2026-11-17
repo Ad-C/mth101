@@ -4,9 +4,14 @@ title: Projet
 
 [Accueil](./) · [Séances](seances.html) · **Projet** · [Kit tuteur](kit-tuteur.html) · [FAQ GitHub](faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
-**Calendrier mis à jour le 3/11 : le [mode d'emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.** Les consignes par mission pour la suite du projet sont publiées ci-dessous, dans « Partie 2 · la suite du projet ».
+**Les soutenances de démarche ont eu lieu le jeudi 12 novembre. Prochaine échéance : l'écrit final, le vendredi 4 décembre à 23 h 59.** Le [mode d'emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.
 
 Les quatre missions de l'agence, tirées au sort le 9 octobre. Pour chacune : la commande du client, la note de cadrage et le kit de mission. Les missions tirées sont définitives.
+
+## L'écrit final · vendredi 4 décembre, 23 h 59
+
+- [La consigne de l'écrit final (PDF)](supports/projet/mth101-consigne-ecrit-final.pdf), commune aux quatre missions : de 4 à 6 pages, en PDF, déposé sur Brightspace, outil **Devoirs**, devoir « MTH101 · Écrit final ». Un seul dépôt par équipe, par l'un de ses membres ; les noms de tous en première page.
+- Vidéo de soutenance, pour les étudiants autorisés le 12/11 : même date, même dépôt. 5 minutes au plus ; vos diapositives et votre propre voix (pas de voix de synthèse) ; le contenu de la soutenance ; une dernière minute sur la question la plus difficile de votre projet, et votre réponse. Déposée sur Brightspace, en fichier ou par un lien de partage.
 
 ## Partie 2 · la suite du projet
 
