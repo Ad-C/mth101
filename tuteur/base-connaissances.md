@@ -10,6 +10,7 @@ origine:
 - https://ad-c.github.io/mth101/projet.html
 - https://ad-c.github.io/mth101/supports/projet/mth101-synthese-missions.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-guide-soutenance.pdf
+- https://ad-c.github.io/mth101/supports/projet/mth101-consigne-ecrit-final.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-feuille-de-route-jalon-1.pdf
 - https://ad-c.github.io/mth101/supports/seance-04/mth101-seance-04-parcours-lois-discretes.pdf
 - https://ad-c.github.io/mth101/supports/polycopie/mth101-carte-du-module.pdf
@@ -33,8 +34,8 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-2.pdf
-depot-public: Ad-C/mth101, e070674
-genere: '2026-11-06'
+depot-public: Ad-C/mth101, 64d6ca7
+genere: '2026-11-17'
 ---
 
 # Base de connaissances du tuteur de MTH101
@@ -44,8 +45,8 @@ Ce fichier rassemble les documents publiés pour les étudiants du cours MTH101
 date de génération. Il ne contient rien d’autre. Il a deux sortes de
 parties : la partie commune (le mode d’emploi du cours et ses mises à jour,
 puis le cours, son calendrier, ce qui a été vu, les exercices du 9 octobre et
-les corrigés des exercices 1 à 7, le projet, la soutenance de démarche, le
-jalon 1, les aides), puis une partie par mission, avec la commande du client,
+les corrigés des exercices 1 à 7, le projet, la soutenance de démarche,
+l’écrit final, le jalon 1, les aides), puis une partie par mission, avec la commande du client,
 la note de cadrage, le kit, partie 1, et le kit, partie 2. Chaque document
 donne son adresse publique, à citer quand on y renvoie.
 
@@ -618,9 +619,14 @@ Page : https://ad-c.github.io/mth101/projet.html
 
 *Mise à jour du 3 novembre : les échéances du projet que donne encore ce document sont remplacées par le calendrier du mode d’emploi, repris en tête de la base : pas de jeu de répétition, remplacé par une enquête en ligne dont les données sont remises vers le mardi 10 novembre ; dernier délai pour le protocole et la question d’omnibus le vendredi 6 novembre à 17 h 30 ; support de la soutenance le mercredi 11 novembre à 23 h 59 ; soutenance de démarche le jeudi 12 novembre ; écrit final le vendredi 4 décembre à 23 h 59.*
 
-**Calendrier mis à jour le 3/11 : le [mode d’emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.** Les consignes par mission pour la suite du projet sont publiées ci-dessous, dans « Partie 2 · la suite du projet ».
+**Les soutenances de démarche ont eu lieu le jeudi 12 novembre. Prochaine échéance : l’écrit final, le vendredi 4 décembre à 23 h 59.** Le [mode d’emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.
 
 Les quatre missions de l’agence, tirées au sort le 9 octobre. Pour chacune : la commande du client, la note de cadrage et le kit de mission. Les missions tirées sont définitives.
+
+### L’écrit final · vendredi 4 décembre, 23 h 59
+
+- [La consigne de l’écrit final (PDF)](https://ad-c.github.io/mth101/supports/projet/mth101-consigne-ecrit-final.pdf), commune aux quatre missions : de 4 à 6 pages, en PDF, déposé sur Brightspace, outil **Devoirs**, devoir « MTH101 · Écrit final ». Un seul dépôt par équipe, par l’un de ses membres ; les noms de tous en première page.
+- Vidéo de soutenance, pour les étudiants autorisés le 12/11 : même date, même dépôt. 5 minutes au plus ; vos diapositives et votre propre voix (pas de voix de synthèse) ; le contenu de la soutenance ; une dernière minute sur la question la plus difficile de votre projet, et votre réponse. Déposée sur Brightspace, en fichier ou par un lien de partage.
 
 ### Partie 2 · la suite du projet
 
@@ -758,6 +764,47 @@ Chaque donnée citée porte sa source, et la mention que sa licence impose.
 
 - **Où et quand.** Dans `projet/soutenance/`, commité et synchronisé au plus tard le mercredi 11 novembre à 23 h 59 : vérifiez sur github.com qu’il y est arrivé.
 - **L’usage de l’IA.** Elle est permise pour comprendre et vérifier, pas pour produire vos livrables : le support en est un.
+
+Le respect des consignes et des échéances entre dans la note du projet.
+
+## L’écrit final · Consigne
+
+*Vendredi 4 décembre, 23 h 59 : de 4 à 6 pages, en PDF, sur Brightspace. Daté du mardi 17 novembre 2026.* PDF : https://ad-c.github.io/mth101/supports/projet/mth101-consigne-ecrit-final.pdf
+
+### 1. L’écrit
+
+L’écrit final du 4/12 remplace l’écrit annoncé dans les commandes et les notes de cadrage. Il porte sur vos données : celles de votre mission, et votre enquête.
+
+- **De 4 à 6 pages, en PDF**, déposé sur Brightspace le **vendredi 4 décembre à 23 h 59** : outil **Devoirs**, devoir « MTH101 · Écrit final ». **Un seul dépôt par équipe**, par l’un de ses membres ; **les noms de tous en première page**. Le mode d’emploi sur Brightspace fait foi.
+- **Selon la grille commune de l’agence** : question, données, effet estimé, intervalle de confiance, test, importance pratique, limites, recommandation, condition de réexamen (polycopié, chapitre 6, section 2.7). **La recommandation** répond à la question du client, aux deux questions quand il en pose deux, et dit d’où viennent les chiffres.
+- **Les sources** : tout rendu qui utilise Hotel booking demand cite l’article de N. Antonio, A. de Almeida et L. Nunes ; tout rendu qui utilise les relevés des parcs porte « Powered by Queue-Times.com », avec un lien ; chaque étude publiée se cite en entier.
+- **L’usage de l’IA** : elle est permise pour comprendre et vérifier, pas pour produire vos livrables ; chacun doit savoir expliquer tout ce que l’équipe rend. L’écrit se termine par une courte déclaration de votre usage de l’IA : outils, et pour quoi faire.
+
+### 2. Pour les quatre missions
+
+**Les analyses du socle** (kit, partie 2, section 3) :
+
+1.  **des estimations, chacune avec son intervalle de confiance à 95 %** (polycopié, chapitre 5, section 2.2) ;
+2.  **le test de deux proportions sur votre question d’enquête** (chapitre 5, section 2.4) : la même réponse, comptée dans chaque version ; les deux fréquences, leur différence et son intervalle de confiance, la statistique z, la p-valeur, au seuil fixé avant de regarder les données ; puis ce que la comparaison apprend au client ;
+3.  **le simulateur**, dans `projet/simulateur/` de votre dépôt, à partir du squelette commun. Au moins deux ou trois paramètres, choisis pour la décision du client ; les kits en proposent d’autres à titre d’exemples. Votre simulateur s’appuie sur des taux que vous justifiez (études publiées, votre enquête) : dites d’où vient chacun.
+
+**Les trois niveaux** (note de cadrage, section 6).
+
+- **Le socle, ce qu’il faut pour valider** : le protocole est pré-enregistré à temps et complet (métrique, tirage au sort, taille d’échantillon, durée, règle de décision) ; l’écrit suit la grille commune, et ses calculs sont justes ; le simulateur tourne ; la recommandation répond au client.
+- **Un très bon travail** : le benchmark est confronté à vos propres chiffres : ce qui concorde, ce qui diffère, et pourquoi ; chaque limite est nommée, avec ce qu’elle change à la recommandation.
+- **Un excellent travail** : en séance, le jury fait varier les paramètres sans aide et voit la décision changer ; l’équipe va au-delà de la commande, et le justifie : une source de plus, ou la preuve qu’un résultat tient quand une hypothèse change ; une notion difficile devient claire pour un non-spécialiste, en une minute. Une équipe de trois vise au moins un élément de ce niveau.
+
+### 3. Selon votre mission
+
+**Les annulations.** *Estimations* : les taux d’annulation tardive, par segment de clientèle ; l’annulation tardive est définie avant d’être comptée. *Simulateur* : pour un nombre de chambres et un nombre de réservations acceptées, il donne au moins la probabilité de devoir reloger au moins un client. *Très bon* : les taux qui nourrissent le simulateur sont estimés sur les données, avec leur intervalle de confiance, et non posés à la main ; chaque résultat est traduit dans la langue du client : des chambres, des nuits, des euros. *Excellent* : la recommandation tient en une règle de survente que le service des réservations peut appliquer telle quelle, avec la condition qui la ferait réviser.
+
+**Recommandé par l’IA.** *Estimations* : pour chacun des cinq hôtels, la part des requêtes où il est recommandé, selon la définition de votre plan d’audit ; l’effet de sa position dans la liste. *Simulateur* : une part de recommandations ; le client y lit combien de voyageurs se voient proposer son hôtel. *Très bon* : la probabilité d’être recommandé et l’effet de la place dans la liste sont estimés, chacun avec son intervalle de confiance ; chaque résultat est traduit pour le client : sur 100 voyageurs, combien se voient proposer son hôtel ? *Excellent* : la recommandation dit au client quoi changer dans sa présentation, avec le gain attendu, sa marge, et la condition qui la ferait réviser.
+
+**L’audit, avant d’écrire.** La consigne de l’audit, publiée avec la partie 2, remplace l’audit par programme de la commande : de 100 à 150 requêtes à la main, sur le même assistant, en mode sans historique, avec la même formulation et l’ordre des hôtels que donne le script ; le plan d’audit commité avant la première requête. Au socle, l’audit est mené et documenté : toutes ses réponses sont conservées.
+
+**Le temps d’attente.** *Estimations* : la probabilité d’attendre plus de 60 minutes, pour les jours et les heures que vous comparez. *Simulateur* : le client y choisit l’affluence et lit l’attente qui en résulte. *Très bon* : la probabilité d’attendre plus de 60 minutes est estimée pour plusieurs jours et heures, chaque fois avec son intervalle de confiance ; chaque résultat est traduit pour le visiteur : à quelle heure arriver, combien de temps prévoir. *Excellent* : le conseil au visiteur tient en une phrase que le site pourrait afficher, avec la condition qui le ferait réviser.
+
+**Les robots de service.** *Estimations* : la proportion de chaque réponse à votre question d’enquête, dans chaque version ; et, quand une étude publiée donne un taux et le nombre de personnes interrogées, son intervalle. *Simulateur* : il croise un coût et un taux d’acceptation, et dit si le déploiement vaut la dépense. *Très bon* : le taux d’acceptation du simulateur est une estimation sourcée, avec son intervalle de confiance, et non un chiffre posé à la main ; les coûts viennent de sources citées, et leur incertitude est dite. *Excellent* : le simulateur montre à partir de quel taux d’acceptation le robot vaut la dépense ; la recommandation dit la condition qui la ferait réviser.
 
 Le respect des consignes et des échéances entre dans la note du projet.
 
@@ -1182,7 +1229,7 @@ Page : https://ad-c.github.io/mth101/kit-tuteur.html
 
 Un assistant IA peut vous aider à comprendre une notion ou à vérifier un raisonnement, s’il joue le rôle d’un tuteur et non celui d’un sous-traitant. Cette page donne la consigne à lui confier, le fichier à lui joindre, et les règles de son usage dans le cours.
 
-*Mise à jour : 6 novembre 2026.*
+*Mise à jour : 17 novembre 2026.*
 
 ### La règle d’usage de l’IA
 
@@ -1198,7 +1245,7 @@ Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e
 
 ### La base de connaissances
 
-[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 6 novembre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
+[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 17 novembre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
 
 - Ajoutez-le aux fichiers de votre projet Claude, ou joignez-le à la conversation de votre assistant.
 - La consigne de cette page suffit.
