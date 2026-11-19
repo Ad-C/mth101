@@ -6,7 +6,7 @@ title: FAQ GitHub
 
 Les questions posées sur GitHub et Codespaces, avec leur réponse. Les libellés sont ceux de VS Code en français ; ceux de github.com restent en anglais. Le guide GitHub distribué en séance reste la référence pour les premiers pas.
 
-*Mise à jour : 5 novembre 2026.*
+*Mise à jour : 19 novembre 2026.*
 
 **Une fois dans chaque nouveau codespace** : dans un terminal (menu ☰, **Terminal**, **Nouveau terminal**), tapez `git config --global pull.rebase false`. Sans ce réglage, la synchronisation échoue dès que vous et votre binôme avez commité chacun de votre côté (question 3).
 
@@ -116,4 +116,4 @@ Le nombre de commits n'est pas une note : en multiplier de tout petits n'apporte
 
 Les copies de vos dépôts et ses notes de suivi restent chez lui, hors de tout dépôt, et sont supprimées à la fin de la période d'évaluation.
 
-Une question qui n'est pas ici ? Posez-la en séance : elle rejoindra cette page.
+Une question qui n'est pas ici ? Écrivez à l'intervenant : elle rejoindra cette page.

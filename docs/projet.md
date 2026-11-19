@@ -13,7 +13,7 @@ Les quatre missions de l'agence, tirées au sort le 9 octobre. Pour chacune : la
 - [La consigne de l'écrit final (PDF)](supports/projet/mth101-consigne-ecrit-final.pdf), commune aux quatre missions : de 4 à 6 pages, en PDF, déposé sur Brightspace, outil **Devoirs**, devoir « MTH101 · Écrit final ». Un seul dépôt par équipe, par l'un de ses membres ; les noms de tous en première page.
 - Vidéo de soutenance, pour les étudiants autorisés le 12/11 : même date, dans le devoir Brightspace « MTH101 · Vidéo de soutenance » (et non dans celui de l'écrit, qui n'accepte que des PDF). 5 minutes au plus ; vos diapositives et votre propre voix (pas de voix de synthèse) ; le contenu de la soutenance ; une dernière minute sur la question la plus difficile de votre projet, et votre réponse. Déposée sur Brightspace, en fichier ou par un lien de partage.
 
-## Partie 2 · la suite du projet
+## Archives : partie 2 · la suite du projet
 
 Publiée le vendredi 6 novembre. Le kit, partie 2, de votre mission dit ce qui reste à faire, avec quelles données, et ce que vous montrerez le jeudi 12 novembre : lisez-le avant de reprendre le travail.
 
@@ -26,7 +26,7 @@ Publiée le vendredi 6 novembre. Le kit, partie 2, de votre mission dit ce qui r
 
 Pour les quatre missions :
 
-- [La soutenance de démarche, guide commun (PDF)](supports/projet/mth101-guide-soutenance.pdf) : le jeudi 12 novembre, 10 minutes d'exposé et 8 de questions ; le support est dans `projet/soutenance/` le mercredi 11 novembre à 23 h 59.
+- *Passée.* [La soutenance de démarche, guide commun (PDF)](supports/projet/mth101-guide-soutenance.pdf) : le jeudi 12 novembre, 10 minutes d'exposé et 8 de questions ; le support est dans `projet/soutenance/` le mercredi 11 novembre à 23 h 59.
 - Le squelette de simulateur, [`notebooks/squelette-simulateur.ipynb`](https://github.com/Ad-C/mth101/blob/main/notebooks/squelette-simulateur.ipynb), à partir duquel vous construisez le simulateur de votre mission. Dans le terminal de votre codespace, à la racine du dépôt de votre équipe :
 
 ```bash
@@ -46,9 +46,11 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Chapitre 1 du polycopié : probabilités et probabilités conditionnelles (PDF)](supports/polycopie/mth101-chapitre-01-probabilites-conditionnelles.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-01-corriges.pdf), avec son annexe, [la boîte à outils (PDF)](supports/polycopie/mth101-boite-a-outils.pdf) : les bases de calcul du polycopié ; les réponses de ses questions éclair sont dans les corrigés du chapitre 1.
 - [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-02-corriges.pdf), à travailler en autonomie d'ici le vendredi 23 octobre.
 - [Chapitre 3 du polycopié : lois discrètes ; espérance, variance, écart-type (PDF)](supports/polycopie/mth101-chapitre-03-lois-discretes.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-03-corriges.pdf), qui reprend le parcours du jeudi 15 octobre et va plus loin.
-- [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
+- [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 - [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 - [Chapitre 6 du polycopié : de la donnée à la décision, recommander sous incertitude (PDF)](supports/polycopie/mth101-chapitre-06-donnee-decision.pdf) et [ses corrigés (PDF)](supports/polycopie/mth101-chapitre-06-corriges.pdf), pour rédiger vos recommandations et préparer les soutenances.
+
+## Archives : la règle du jalon 1
 
 **La règle du jalon 1.** Le protocole doit être synchronisé, donc visible sur github.com, avant le jeudi 15 octobre à 23 h 59. Il est commité avant toute analyse : aucun fichier de `projet/analyses/` ne le précède dans l'historique.
 

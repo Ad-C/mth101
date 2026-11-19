@@ -2,7 +2,7 @@
 title: "Séance 1 · mercredi 7 octobre"
 ---
 
-[Accueil](../) · [Séances](../seances.html) · [Projet](../projet.html) · [Kit tuteur](../kit-tuteur.html) · [FAQ GitHub](../faq.html)
+[Accueil](../) · [Séances](../seances.html) · [Projet](../projet.html) · [Kit tuteur](../kit-tuteur.html) · [FAQ GitHub](../faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
 **Séance 1, mercredi 7 octobre, matin.** Le lancement de l'agence et du module ; les premières probabilités.
 

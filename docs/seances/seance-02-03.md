@@ -2,7 +2,7 @@
 title: "Séances 2 et 3 · vendredi 9 octobre"
 ---
 
-[Accueil](../) · [Séances](../seances.html) · [Projet](../projet.html) · [Kit tuteur](../kit-tuteur.html) · [FAQ GitHub](../faq.html)
+[Accueil](../) · [Séances](../seances.html) · [Projet](../projet.html) · [Kit tuteur](../kit-tuteur.html) · [FAQ GitHub](../faq.html) · [Dépôt GitHub](https://github.com/Ad-C/mth101)
 
 **Séances 2 et 3, vendredi 9 octobre, journée.** Le théorème de Bayes, commencé le matin ; les missions de l'agence l'après-midi.
 
