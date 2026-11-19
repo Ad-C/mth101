@@ -11,7 +11,7 @@ Les quatre missions de l'agence, tirées au sort le 9 octobre. Pour chacune : la
 ## L'écrit final · vendredi 4 décembre, 23 h 59
 
 - [La consigne de l'écrit final (PDF)](supports/projet/mth101-consigne-ecrit-final.pdf), commune aux quatre missions : de 4 à 6 pages, en PDF, déposé sur Brightspace, outil **Devoirs**, devoir « MTH101 · Écrit final ». Un seul dépôt par équipe, par l'un de ses membres ; les noms de tous en première page.
-- Vidéo de soutenance, pour les étudiants autorisés le 12/11 : même date, même dépôt. 5 minutes au plus ; vos diapositives et votre propre voix (pas de voix de synthèse) ; le contenu de la soutenance ; une dernière minute sur la question la plus difficile de votre projet, et votre réponse. Déposée sur Brightspace, en fichier ou par un lien de partage.
+- Vidéo de soutenance, pour les étudiants autorisés le 12/11 : même date, dans le devoir Brightspace « MTH101 · Vidéo de soutenance » (et non dans celui de l'écrit, qui n'accepte que des PDF). 5 minutes au plus ; vos diapositives et votre propre voix (pas de voix de synthèse) ; le contenu de la soutenance ; une dernière minute sur la question la plus difficile de votre projet, et votre réponse. Déposée sur Brightspace, en fichier ou par un lien de partage.
 
 ## Partie 2 · la suite du projet
 
