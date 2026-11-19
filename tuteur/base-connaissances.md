@@ -34,8 +34,8 @@ origine:
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-note-de-cadrage.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-1.pdf
 - https://ad-c.github.io/mth101/supports/projet/mth101-c2-robots-de-service-kit-partie-2.pdf
-depot-public: Ad-C/mth101, 64d6ca7
-genere: '2026-11-17'
+depot-public: Ad-C/mth101, 6707913
+genere: '2026-11-19'
 ---
 
 # Base de connaissances du tuteur de MTH101
@@ -155,29 +155,37 @@ Cours MTH101 du Bachelor IA, 1re année, de l’École 89, année 2026-2027. Int
 
 ### Le module
 
-Décider dans l’incertain : calculer des probabilités, reconnaître les lois usuelles, estimer, tester, puis transformer un résultat chiffré en recommandation. Vous travaillez en binôme comme consultants juniors d’une agence de conseil en données, spécialisée dans le tourisme et l’hôtellerie.
+Décider dans l’incertain : calculer des probabilités, reconnaître les lois usuelles, estimer, tester, puis transformer un résultat chiffré en recommandation. Vous travaillez en équipe comme consultants juniors d’une agence de conseil en données, spécialisée dans le tourisme et l’hôtellerie.
 
 ### Calendrier
 
-| Date | Séance | Au programme |
-|----|----|----|
-| Mer. 7/10, matin | 1 | Lancement de l’agence ; probabilités, probabilités conditionnelles, indépendance |
-| Ven. 9/10, matin | 2 | Théorème de Bayes ; vote du nom de l’agence |
-| Ven. 9/10, après-midi | 3 | Lois de Bernoulli, binomiale et de Poisson ; espérance, variance ; présentation des missions |
-| Jeu. 15/10, après-midi | 4, en autonomie | Projet : premier jalon |
-| Ven. 23/10, matin | 5 | Loi normale, intuition du théorème central limite |
-| Ven. 23/10, après-midi | 6 | Estimation, intervalle de confiance, test de deux proportions |
-| Ven. 6/11, après-midi | 7, en autonomie | Projet : second jalon |
-| Jeu. 12/11, journée | 8 et 9 | Journée des soutenances |
-| Jeu. 28/01, après-midi | 10 | Examen |
+| Date | Séance | Au programme |  |
+|----|----|----|----|
+| Mer. 7/10, matin | 1 | Lancement de l’agence ; probabilités, probabilités conditionnelles, indépendance | Passée |
+| Ven. 9/10, matin | 2 | Théorème de Bayes ; vote du nom de l’agence | Passée |
+| Ven. 9/10, après-midi | 3 | Présentation des missions et tirage au sort ; les lois discrètes, reportées au 15/10 | Passée |
+| Jeu. 15/10, après-midi | 4, en autonomie | Parcours sur les lois discrètes ; projet : premier jalon | Passée |
+| Ven. 23/10, matin | 5 | Rappel du théorème de Bayes ; chapitre 3, lois discrètes | Passée |
+| Ven. 23/10, après-midi | 6 | Chapitres 4 et 5 : loi normale, théorème central limite ; estimation, intervalle de confiance, test de deux proportions | Passée |
+| Ven. 6/11, après-midi | 7, en autonomie | Séance de travail en autonomie | Passée |
+| Jeu. 12/11, matin | 8 | Analyse des données d’enquête | Passée |
+| Jeu. 12/11, après-midi | 9 | Soutenances de démarche | Passée |
+| Jeu. 28/01, après-midi | 10 | Examen | À venir |
+
+### Prochaines échéances
+
+- **L’écrit final** : vendredi 4 décembre, 23 h 59 ; et les vidéos de soutenance, pour les étudiants autorisés, à la même date.
+- **L’examen** : jeudi 28 janvier, après-midi.
+
+Le [mode d’emploi sur Brightspace](https://learn.ga.university/d2l/le/lessons/6803/topics/7946) fait foi.
 
 ### Les séances
 
-Le résumé de chaque séance passée, avec ses supports en PDF, est sur la page [Séances](https://ad-c.github.io/mth101/seances.html).
+Chaque séance passée, son contenu et ses supports en PDF sont sur la page [Séances](https://ad-c.github.io/mth101/seances.html).
 
 ### Le projet
 
-Les quatre missions de l’agence, leurs documents et le jalon 1 du 15 octobre : page [Projet](https://ad-c.github.io/mth101/projet.html). Pour vous servir d’un assistant IA comme d’un tuteur : le [kit tuteur](https://ad-c.github.io/mth101/kit-tuteur.html).
+L’écrit final du 4 décembre et [sa consigne (PDF)](https://ad-c.github.io/mth101/supports/projet/mth101-consigne-ecrit-final.pdf), les quatre missions de l’agence et leurs documents : page [Projet](https://ad-c.github.io/mth101/projet.html). Pour vous servir d’un assistant IA comme d’un tuteur : le [kit tuteur](https://ad-c.github.io/mth101/kit-tuteur.html).
 
 ### Votre dépôt de binôme
 
@@ -187,7 +195,7 @@ Une question sur GitHub ou Codespaces : la [FAQ GitHub](https://ad-c.github.io/m
 
 ### Données
 
-- Relevés de temps d’attente des deux parcs Disneyland Paris : [dossier `donnees/queue-times`](https://github.com/Ad-C/mth101/tree/main/donnees/queue-times). [Powered by Queue-Times.com](https://queue-times.com/).
+- Relevés de temps d’attente des deux parcs Disneyland Paris, du 4 octobre au 12 novembre : la collecte s’est arrêtée le 12 novembre. [Dossier `donnees/queue-times`](https://github.com/Ad-C/mth101/tree/main/donnees/queue-times). [Powered by Queue-Times.com](https://queue-times.com/).
 - Hotel booking demand : N. Antonio, A. de Almeida, L. Nunes, *Data in Brief*, 22 (2019), 41–49, [doi:10.1016/j.dib.2018.11.126](https://doi.org/10.1016/j.dib.2018.11.126), licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
 ### Licences
@@ -626,9 +634,9 @@ Les quatre missions de l’agence, tirées au sort le 9 octobre. Pour chacune : 
 ### L’écrit final · vendredi 4 décembre, 23 h 59
 
 - [La consigne de l’écrit final (PDF)](https://ad-c.github.io/mth101/supports/projet/mth101-consigne-ecrit-final.pdf), commune aux quatre missions : de 4 à 6 pages, en PDF, déposé sur Brightspace, outil **Devoirs**, devoir « MTH101 · Écrit final ». Un seul dépôt par équipe, par l’un de ses membres ; les noms de tous en première page.
-- Vidéo de soutenance, pour les étudiants autorisés le 12/11 : même date, même dépôt. 5 minutes au plus ; vos diapositives et votre propre voix (pas de voix de synthèse) ; le contenu de la soutenance ; une dernière minute sur la question la plus difficile de votre projet, et votre réponse. Déposée sur Brightspace, en fichier ou par un lien de partage.
+- Vidéo de soutenance, pour les étudiants autorisés le 12/11 : même date, dans le devoir Brightspace « MTH101 · Vidéo de soutenance » (et non dans celui de l’écrit, qui n’accepte que des PDF). 5 minutes au plus ; vos diapositives et votre propre voix (pas de voix de synthèse) ; le contenu de la soutenance ; une dernière minute sur la question la plus difficile de votre projet, et votre réponse. Déposée sur Brightspace, en fichier ou par un lien de partage.
 
-### Partie 2 · la suite du projet
+### Archives : partie 2 · la suite du projet
 
 Publiée le vendredi 6 novembre. Le kit, partie 2, de votre mission dit ce qui reste à faire, avec quelles données, et ce que vous montrerez le jeudi 12 novembre : lisez-le avant de reprendre le travail.
 
@@ -641,7 +649,7 @@ Publiée le vendredi 6 novembre. Le kit, partie 2, de votre mission dit ce qui r
 
 Pour les quatre missions :
 
-- [La soutenance de démarche, guide commun (PDF)](https://ad-c.github.io/mth101/supports/projet/mth101-guide-soutenance.pdf) : le jeudi 12 novembre, 10 minutes d’exposé et 8 de questions ; le support est dans `projet/soutenance/` le mercredi 11 novembre à 23 h 59.
+- *Passée.* [La soutenance de démarche, guide commun (PDF)](https://ad-c.github.io/mth101/supports/projet/mth101-guide-soutenance.pdf) : le jeudi 12 novembre, 10 minutes d’exposé et 8 de questions ; le support est dans `projet/soutenance/` le mercredi 11 novembre à 23 h 59.
 - Le squelette de simulateur, [`notebooks/squelette-simulateur.ipynb`](https://github.com/Ad-C/mth101/blob/main/notebooks/squelette-simulateur.ipynb), à partir duquel vous construisez le simulateur de votre mission. Dans le terminal de votre codespace, à la racine du dépôt de votre équipe :
 
 ``` bash
@@ -661,9 +669,11 @@ Une demi-journée en autonomie : un temps de cours, puis le jalon 1 de votre mis
 - [Chapitre 1 du polycopié : probabilités et probabilités conditionnelles (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-01-probabilites-conditionnelles.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-01-corriges.pdf), avec son annexe, [la boîte à outils (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-boite-a-outils.pdf) : les bases de calcul du polycopié ; les réponses de ses questions éclair sont dans les corrigés du chapitre 1.
 - [Chapitre 2 du polycopié : le théorème de Bayes (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-theoreme-de-bayes.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-02-corriges.pdf), à travailler en autonomie d’ici le vendredi 23 octobre.
 - [Chapitre 3 du polycopié : lois discrètes ; espérance, variance, écart-type (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-03-lois-discretes.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-03-corriges.pdf), qui reprend le parcours du jeudi 15 octobre et va plus loin.
-- [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre au matin.
+- [Chapitre 4 du polycopié : loi normale et théorème central limite (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-loi-normale.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-04-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 - [Chapitre 5 du polycopié : estimation, intervalle de confiance, test de deux proportions (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-estimation-tests.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-05-corriges.pdf), pour la séance du vendredi 23 octobre après-midi.
 - [Chapitre 6 du polycopié : de la donnée à la décision, recommander sous incertitude (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-06-donnee-decision.pdf) et [ses corrigés (PDF)](https://ad-c.github.io/mth101/supports/polycopie/mth101-chapitre-06-corriges.pdf), pour rédiger vos recommandations et préparer les soutenances.
+
+### Archives : la règle du jalon 1
 
 **La règle du jalon 1.** Le protocole doit être synchronisé, donc visible sur github.com, avant le jeudi 15 octobre à 23 h 59. Il est commité avant toute analyse : aucun fichier de `projet/analyses/` ne le précède dans l’historique.
 
@@ -1229,7 +1239,7 @@ Page : https://ad-c.github.io/mth101/kit-tuteur.html
 
 Un assistant IA peut vous aider à comprendre une notion ou à vérifier un raisonnement, s’il joue le rôle d’un tuteur et non celui d’un sous-traitant. Cette page donne la consigne à lui confier, le fichier à lui joindre, et les règles de son usage dans le cours.
 
-*Mise à jour : 17 novembre 2026.*
+*Mise à jour : 19 novembre 2026.*
 
 ### La règle d’usage de l’IA
 
@@ -1245,7 +1255,7 @@ Ne mettez dans la conversation aucune donnée personnelle : ni nom, ni adresse e
 
 ### La base de connaissances
 
-[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 17 novembre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
+[Télécharger `base-connaissances.md`](https://raw.githubusercontent.com/Ad-C/mth101/main/tuteur/base-connaissances.md), mis à jour le 19 novembre 2026 : un seul fichier, qui réunit les documents publiés du cours, dont la commande, la note de cadrage et le kit de chaque mission, et la carte du module. Si le lien affiche le texte au lieu de l’enregistrer : clic droit sur le lien, puis « Enregistrer le lien sous… ».
 
 - Ajoutez-le aux fichiers de votre projet Claude, ou joignez-le à la conversation de votre assistant.
 - La consigne de cette page suffit.
@@ -1284,7 +1294,7 @@ Page : https://ad-c.github.io/mth101/faq.html
 
 Les questions posées sur GitHub et Codespaces, avec leur réponse. Les libellés sont ceux de VS Code en français ; ceux de github.com restent en anglais. Le guide GitHub distribué en séance reste la référence pour les premiers pas.
 
-*Mise à jour : 5 novembre 2026.*
+*Mise à jour : 19 novembre 2026.*
 
 **Une fois dans chaque nouveau codespace** : dans un terminal (menu ☰, **Terminal**, **Nouveau terminal**), tapez `git config --global pull.rebase false`. Sans ce réglage, la synchronisation échoue dès que vous et votre binôme avez commité chacun de votre côté (question 3).
 
@@ -1396,7 +1406,7 @@ Le nombre de commits n’est pas une note : en multiplier de tout petits n’app
 
 Les copies de vos dépôts et ses notes de suivi restent chez lui, hors de tout dépôt, et sont supprimées à la fin de la période d’évaluation.
 
-Une question qui n’est pas ici ? Posez-la en séance : elle rejoindra cette page.
+Une question qui n’est pas ici ? Écrivez à l’intervenant : elle rejoindra cette page.
 
 ## Notebooks
 
